@@ -1,0 +1,1981 @@
+--page i
+
+ARCHITECTURE AND PRICES
+IN ENGLAND
+
+
+--page ii
+
+London
+Henry Frowde
+Oxford University Press Warehouse
+7 Paternoster Row
+
+
+--page iii
+
+A HISTORY 
+OF 
+AGRICULTURE AND PRICES 
+IN ENGLAND 
+
+
+FROM THE YEAR AFTER THE OXFORD PARLIAMENT (1359) 
+TO THE COMMENCEMENT OF THE CONTINENTAL WAR (1793) 
+
+
+COMPILED ENTIRELY FROM ORIGINAL AND 
+CONTEMPORANEOUS RECORDS 
+
+
+BY 
+JAMES E. THOROLD ROGERS, M. A. 
+Professor of Political Economy in the University of Oxford; 
+Tooke Professor of Economic Science and Statistics, King's College, London. 
+
+
+VOL. I. 
+1259—1400 
+
+
+Oxford
+at the Clarendon Press 
+M.DCCC.LXVI. 
+
+[All Rights reserved.] 
+
+
+--page iv
+
+
+--page v
+
+PREFACE. 
+
+XHEEE is no need of any apology in offering the 
+facts contained in these volumes to such persons as 
+are interested in the social history of the southern 
+part of our island. They are an attempt to satisfy 
+a total void — the complete absence of all satisfactory 
+information on prices in medieval England. As no 
+treatment of the subject has been in any sense hereto- 
+fore attempted, it was necessary to publish the great 
+mass of facts which have been gathered, as well as to 
+offer comments on their significance. 
+
+There is no European country, I believe, except Eng- 
+land, the archives of which could supply satisfactory 
+evidence of prices. Up to the time of Henry the Eighth 
+the changes in the English currency, even if they were 
+really operative on prices, were effected at well-known 
+dates. I have attempted in the course of this volume 
+to give reasons for the opinion which I entertain, that 
+up to the reformation of the currency by Elizabeth, 
+payments were made by weight. But in every other 
+European community, the administration has tampered 
+
+
+--page vi PREFACE.
+
+with the currency so frequently, that all money prices 
+are open to suspicion. If they can be collected in 
+sufficient quantity, medieval prices in England repre- 
+sent current values. Again, there are probably few 
+such archives in England, of a date previous to the 
+Reformation, as are found in the muniment-rooms of 
+Colleges and Cathedrals, and in the Public Record 
+Office, for our aristocracy and gentry date, on the 
+whole, from the days of Henry the Eighth. 
+
+I anticipate that the facts and comments contained 
+in these volumes will attract but few readers. The 
+form of such a work is necessarily repulsive, and the 
+dry details of business transacted many centuries ago 
+will have but little charm for the general public. But 
+there is nevertheless contained in these relics no small 
+portion of the bygone life of the English people, perhaps 
+even some materials which may aid in constructing a 
+philosophy of history, by giving depth and solidity to 
+the political events which have been narrated by our 
+annalists. 
+
+Such labours as those which I have undertaken are 
+essential to that economical interpretation of history 
+which, I venture on asserting, is as important an aid 
+towards the comprehension of the past as the study 
+of legal antiquities, of diplomatic intrigues, or of 
+military campaigns. There are very few important 
+events on which an estimate of those facts, which 
+form the special study of the economist, would not 
+throw great light. But as a rule, the pains neces- 
+sary for a sufficient acquaintance with these circum- 
+
+
+--page vii PREFACE.
+
+stances have never been bestowed at all, or at least 
+bestowed impatiently and grudgingly. Yet if there 
+be, as some writers have perhaps over-hastily asserted, 
+a science of history, that is a method of analysing facts 
+by which the future of a nation may be predicted, as 
+well as the past interpreted, this wiU surely be found 
+most fully in that portion of its annals which is eco- 
+nomical. The English nation has not been moulded 
+into its present shape by its constitution and its laws, 
+since its history is by no means an uninterrupted ad- 
+vancement; for both laws and constitution have been 
+the products of a variety of transient energies, most 
+of them, in so far as they are expressions of the 
+national temper, being derived from economical con- 
+siderations, or in great part modified by them. I 
+cannot, for example, trace the boldness of Henry the 
+Fourth's parliaments to that monarch's usurpation or 
+unpopularity, but to the vigorous growth of a wealthy 
+and hardy peasantry. I do not detect the power of 
+Henry the Eighth's government in the strength of that 
+monarch's understanding, for to any but the shallowest 
+observation he was the most shortsighted and selfish 
+monarch who ever sat on the English throne, but to 
+the fact that society was dislocated for a time by the 
+economical consequences of the great war of succession. 
+The fact that for centuries the battle of constitutional 
+liberty was fought in the counties, was due to the 
+action of those freeholders who had achieved their 
+independence by economical causes ; while contrarily 
+another set of economical causes has accomplished the 
+
+
+--page viii PREFACE.
+
+decline, and is accomplishing the gradual extinction, of 
+this independent order. Or to take an example from 
+the history of the popes. It is clear, I think, that the 
+migration to Avignon ; though its consequences were 
+the degradation of the papal power, and the substitu- 
+tion, on the return of the pontiffs, of a mere succession 
+of adventurers in the papal chair ; of men whose sole 
+business became the aggrandisement of their families, 
+instead of the leadership of Italian opinion and the 
+policy of Italian unity ; was originally dictated by the 
+reasonable desire of making the curia more accessible 
+to the Western nations. 
+
+But the study of the past history of the English 
+people, as distinguished from the annals of its govern- 
+ment, has a deeper and more permanent significance 
+than the gratification of that refined curiosity which 
+avoids the present by lingering in the past. As we 
+live, if we entertain a real love for our own race, and 
+a keen sense of our duty towards the nation of our 
+own age, we are more and more constrained to examine 
+the character of its social life, and especially of its eco- 
+nomical features. But it is to no real purpose to learn 
+the lesson by which wealth is produced, unless we are 
+also ready to leave to their natural freedom those 
+agencies by which wealth is distributed. It is vain 
+to rejoice over the aggregate of our prosperity, and to 
+forget that great part of the nation has no share in 
+its benefits. It may be that the wisdom of our 
+forefathers was accidental ; it is certain that society 
+was divided by less sharp lines, and was held to- 
+
+
+--page ix PREFACE.
+
+gether by common ties in a far closer manner, in the 
+times which it has been my fortune to study, than 
+it is now. The feudal system of the Middle Ages 
+was one of mutual interests, its theory of property 
+involved far more exacting duties than modem rights 
+ever acknowledge, or remember, or perhaps know. 
+
+Nor is the bearing of such facts as will be found 
+recorded in these two volumes without its meaning on 
+those maxims of political economy, the adoption of 
+which is already general, and the practice of which 
+is destined at no remote period to become the chief 
+function of wise government. All economists profess 
+that the illustration of facts is quite as important in 
+the method of their science as the discussion or eluci- 
+dation of principles. In my opinion it is even more 
+important, because these facts form the basis for 
+economical inductions. Very few authors, however, 
+have combined exact reasoning with plentiful illus- 
+tration ; very few, however much they have professed 
+to defer to experience, have undergone the drudgery 
+of patient observation. Adam Smith and Tooke are 
+eminent exceptions. 
+
+If, during the course of history, mankind has re- 
+mained the same, at least as regards those impulses 
+and sentiments which economists accept, that inter- 
+pretation of facts will be the most safe which is 
+confined to the simplest examples of unobstructed 
+exchange. In the Middle Ages, on the whole, govern- 
+ments had not developed to any marked extent that 
+protective system, that perpetual interference with 
+
+
+--page x PREFACE. 
+
+the freedom of trade, which has characterized their 
+later activity. I do not mean that there was no de- 
+sire to adopt restrictions, that there were no attempts 
+to fix prices, both at home and at the porte. But the 
+machinery was not provided by which such limitations 
+could be operative. Some of the problems of political 
+economy therefore, I venture on stating, can be dis- 
+cerned and determined with greater ease from the 
+facts which I am able to bring before my reader, 
+fragmentary as they sometimes are, than they could 
+be out of the wider information of our own time. 
+Thus, for instance, the laws which govern prices will, 
+I think, be seen more clearly in these medieval records 
+than they could be in a modem Price Current. 
+
+Lastly, as there were no regular means for supplying 
+deficiencies in the produce of the home market by 
+foreign importations ; the prices of necessaries, such 
+as corn, give no small insight into the course of the 
+seasons, and supply the best means for discovering a 
+cycle of seasons, if, as I do not dare to assert, such a 
+cycle can yet be found. Similarly, as salt was always, 
+it seems, manufactured by evaporation, the price of 
+this article, some obvious deductions being made, may 
+suggest the aggregate of solar heat and light in the 
+several years of the enquiry. I shall attempt in a 
+short time to publish one or two diagrams which will 
+illustrate this hypothesis, by exhibiting the rise and 
+fall in the price of certain articles. 
+
+The age of dedications has passed away ; and even 
+where the form lingers it merely intends a compliment. 
+
+
+--page xi PREFACE.
+
+or an expression of friendship. During the time in 
+which all my labours were given to the collection of 
+materials for this work, none among my friends cheered 
+me with more affectionate interest than Cobden did, 
+the man whose loss the whole civilized world mourned, 
+whose life the whole civilized world will hereafter 
+study with increasing admiration, and increasing profit. 
+Had he been longer spared to the nation on whom he 
+had heaped such great benefits, I should have been 
+able to associate his name with my book, as I should 
+have assuredly consulted his experience for my in- 
+ferences. 
+
+If this work be received with favour, I purpose in 
+the next two volumes to continue the enquiry down 
+to the year 1582, from which date wheat and malt 
+averages have been recorded regularly every six months. 
+As the historical interest of the period contained in the 
+present volumes centres in the effects of the Famine 
+of 1315-16 and of the Plague of 1348, so that of the 
+next period culminates in the currency schemes of 
+1543-1551.
+
+It remains that I should tender my thanks to the 
+Delegates of the University Press, who have taken the 
+responsibility of these volumes on their hands. After 
+the Restoration, and again since the days in which the 
+University of Oxford received from the heir of its 
+eminent author, the great gift of Clarendon's History, 
+it has continually supported the publication of works 
+which illustrate the annals of this country, and has 
+done infinite service to Historical research. I can only 
+
+
+--page xii PREFACE. 
+
+hope that this publication may not discredit the judg- 
+ment of the Delegates. 
+
+* * * I must remind the reader that any given year, 
+as 1300, means, as a rule, from Michaelmas 1300 to 
+Michaelmas 1301, and that the exceptions are only 
+from July to July. It would have been impossible to 
+adopt any other calculation. 
+
+Oxford, Apr. 25, 1866. 
+
+
+--page xiii
+
+CONTENTS. 
+
+CHAPTER I. 
+Introductory 1 
+
+CHAPTER II. 
+Medieval Agriculture 11 
+
+CHAPTER III. 
+Rate of Production in the Thirteenth and Fourteenth 
+Centuries 50 
+
+CHAPTER IV. 
+Social Distinctions, and the General Distribution of 
+Wealth 63 
+
+CHAPTER V. 
+Social and Domestic Economy 113 
+
+CHAPTER VI. 
+Medieval Justice and Courts 126 
+
+
+--page xiv CONTENTS. 
+
+CHAPTER VII. 
+Journeys and Markets 134 
+
+CHAPTER VIII. 
+Foreign Trade and Commercial Routes .... 145 
+
+CHAPTER IX. 
+Taxes and Contributions 154 
+
+CHAPTER X. 
+Weights and Measures 164 
+
+CHAPTER XL 
+Currency 173 
+
+CHAPTER XII. 
+Averages of Prices 181 
+
+CHAPTER XIII. 
+On the Price of Grain 186 
+
+CHAPTER XIV. 
+Fodder and Hay 248 
+
+CHAPTER XV. 
+On the Price of Labour 252
+
+CHAPTER XVI. 
+The Price of Live Stock 326 
+
+
+--page xv CONTENTS.
+
+CHAPTER XVII. 
+The Price of Wool 364 
+
+CHAPTER XVIII. 
+On the Prices of Farm Produce 396 
+
+CHAPTER XIX. 
+On the Price of Materials employed in Agricultural 
+Economy 455 
+
+CHAPTER XX. 
+On the Price of Building Materials 485 
+
+CHAPTER XXI. 
+Agricultural Implements, Tools, and Furniture 522
+
+CHAPTER XXII. 
+On the Price of Textile Fabrics and Clothing 568 
+
+CHAPTER XXIII. 
+On the Price of Metals 594 
+
+CHAPTER XXIV. 
+On the Price of Fish 606 
+
+CHAPTER XXV. 
+On the Price of Foreign Produce 618 
+
+CHAPTER XXVI. 
+Sundry Articles 642 
+
+
+--page xvi CONTENTS. 
+
+CHAPTER XXVII. 
+On the Cost of Carriage 650 
+
+CHAPTER XXVIII. 
+On the Profits of Agriculture before and after the 
+Plague 667 
+
+CHAPTER XXIX. 
+On the Purchasing Power of Wages 682
+
+
+--page 1
+
+CHAPTER I. 
+
+INTRODUCTORY. 
+
+It is my purpose, in the work before me, to attempt a 
+History of Agriculture in England, and to supply a record of 
+prices, especially of corn and labour, from the time at which 
+the earliest consecutive annals begin, down to the close of 
+the eighteenth century. These two volumes will embrace the 
+period of one hundred and forty-two years ; from the summer, 
+that is to say, next after that of the great parliament at 
+Oxford, held under the auspices of Simon de Montfort, to the 
+second year of Henry the Fourth. The date at which the 
+enquiry commences is accidental, being due to the circum- 
+stance that I have found continuous information only from 
+the year 1259. In all cases the record is contemporaneous 
+with the transactions which it narrates, and, with but one or 
+two exceptions, the facts are hitherto unpublished. It is, in- 
+deed, somewhat remarkable, though antiquarian research has 
+been busy for at least the last two centuries; and apart from 
+the aid which enquiries into the economical history of medi- 
+eval England would throw upon its real history, though the 
+contrast of prices at different epochs has been a subject of 
+considerable interest ; that the records from which I have had 
+the fortune to procure the evidence, which is now laid before 
+the reader, should have been undisturbed, perhaps undetected. 
+It is not too much to say, that all attempts hitherto made to 
+
+
+--page 2 INTRODUCTORY. 
+
+give information as to the record of prices in England are 
+exceedingly imperfect, interrupted, and, judged by the com- 
+monest rules of evidence, untrustworthy. The account in 
+Bishop Fleetwood is very meagre, and many statements are 
+repeated from doubtful authorities. Nor has much addition 
+been made to Fleetwood's evidence since the date of his work, 
+in the works of Macpherson and Eden. 
+
+The student of medieval records is continually struck by 
+the uniformity with which changes in the habits and customs 
+of the community are effected. Experience enables an expert 
+to determine with tolerable precision the date of a manuscript 
+record, whether the document is an account of transactions 
+in Northumberland or Hants, in Cornwall or Kent. The 
+delicate and rather cramped handwriting of the conclusion of 
+Henry the Third's reign gives way to the vigorous and elegant 
+character of Edward the First's time, this again to the bold 
+coarse letters of Edward the Second; while the style of the 
+early part of Edward the Third, similar in some respects to 
+that which prevailed thirty years before, gradually degene- 
+rates into the clumsy scrawl which belongs to the reign of 
+Richard the Second; and this last gives way to the neat and 
+angular letters which are found in English manuscripts of the 
+end of the fourteenth and commencement of the fifteenth 
+centuries. In all cases the change is sudden and almost simul- 
+taneous. We shall see how similar changes take place in the 
+economy of agriculture. 
+
+Except the Pipe rolls, very few documents, other than 
+charters and records of legal procedure, exist before the last 
+twenty years of the reign of Henry the Third. It would 
+seem that landowners began about that time to keep regular 
+accounts. It cannot be by accident that so few accounts 
+of the estates held by the Bigods are anterior to the last 
+years of the monarch just mentioned. If these records ex- 
+tended far back into the long reign of Henry the Third we 
+should be able, no doubt, to trace the circumstances by which 
+so great a change was effected in the material condition of 
+
+
+--page 3 INTRODUCTORY.
+
+the people as serve to contrast, I think, so markedly the 
+times of the Second and the Third Henry. 
+
+That during this long reign of Henry the Third the mass 
+of the English people passed from the condition of serfs, per- 
+haps even slaves, into that of freemen, subject in some cases 
+to a small money-rent for their holdings, and in others to 
+labour-rents, servile indeed in character, but fixed and inva- 
+riable, will be plain to those who compare the Court rolls of 
+the last half of the thirteenth century with the evidence which 
+Madox has collected as to the state of the poorer classes in 
+the days of John. The change, however, is insensible, and 
+the progress so gradual as not to be traceable, except by com- 
+paring states of society at different epochs. 
+
+Whatever were the faults of the administration in the reign 
+of Henry the Third, his reign, fifty-six years in duration, was 
+far more pacific than that of any monarch from the Conquest 
+to the close of the fifteenth century. He had no Scotch war ; 
+the chronic hostility of the Welsh appears to have manifested 
+itself in little more than plundering incursions ; and the cam- 
+paigns in France were few and indecisive. The domestic ad- 
+ministration appears also to have been vigorous, if we judge 
+from results. The robber baron disappears with Fawkes de 
+Breaute; the great justiciary Hubert de Burgh seems to have 
+induced habits of order; and Henry, when he emerged from 
+nonage, succeeded to an authority which had been exercised 
+prudently by his guardian. His own easiness and incaution 
+certainly led him, at the conclusion of his reign, into collision 
+with his barons; but faulty as was his judgment in attempting 
+to secure the crown of Naples for his son, and ruinous as the 
+venture became, this seems to have been the single error of 
+his foreign policy. He failed, and Charles of Anjou succeeded, 
+perhaps as the heir of his expenditure. Had Edmund gained 
+the crown of Naples, it is probable that the Sicilian Vespers 
+would never have been enacted. 
+
+In Henry's reign the baron is no longer the enemy, but the 
+leader of the people. In earlier days, the feudal lord is ex- 
+
+
+--page 4 INTRODUCTORY. 
+
+coriator rusticorum, as were Robert de Belesme, and most of 
+the old Norman baronage. The English of Henry's reign, 
+who looked on Simon de Montfort as a champion in life, 
+treated him as a saint after death. But Simon's administra- 
+tion in Guienne was not that of a demagogue, nor was his 
+leadership of the feudal opposition, with its customary policy, 
+insurrection, the act of a man who had made terms with his 
+inferiors, by abandoning and depressing his own order. We 
+should search in vain for a baron like Simon in any reign 
+before that of Henry the Third. They are found in plenty 
+after his time, though none perhaps were so capable or so 
+disinterested as this Cromwell of the thirteenth century. 
+Matthew Paris is sufficiently querulous, but the reader will 
+search in vain for the ferocious and insolent chieftain of the 
+first fifty years of the house of Anjou, or for the cruelties which 
+disfigure earlier times, in the pages of his history. 
+
+The two great English universities existed certainly before 
+the reign of Henry the Third, for we read of three thousand 
+students at Oxford in the reign of John{^a}; of the masters of 
+the schools in the days of Henry's grandfather{^b}; of a concourse 
+of students thither in the reign of Stephen{^c}. But Oxford and 
+Cambridge appear to have been consolidated in the middle 
+of the thirteenth century. In 1252, Boniface, archbishop of 
+Canterbury, visited the university{^d}, and laid his grievances 
+before the scholars. He was received respectfully, and enter- 
+
+{^a} Matt. Paris. 228. 21. 
+
+{^b} Cronica Jocelini de Brakelond, p. 69. 
+
+{^c} As far as I have been able to find, the only author who states that Vacarius 
+lectured at Oxford in the year 1148 is Gerrase of Dover (Twysden, 1665). Robert 
+de Monti (Hist. Nermann, p. 983) says that he lectured in England, but does not 
+specify the locality. Mf. Hallam quotes John of Salisbury, as cited by Selden in his 
+Dissertation on Fleta, to the effect that the lectures took place at Oxford. But 
+Salisbury (who had been present at Becket's murder, and was wounded on that occa- 
+sion) merely states that Vacarius was invited to England by Archbishop Theobald, and 
+that, after lecturing, he was silenced at Stephen's instance. But, says Selden (p. 511, 
+edit. 1647), we do not know whether he lectured at Oxford, Cambridge, London, 
+or in the archbishop's palace. 
+
+{^d} Matt. Paris. 859 I. 
+
+
+--page 5 INTRODUCTORY.
+
+tained sumptuously, and on leaving is said to have acknow- 
+ledged that Oxford was a worthy rival of Paris. Cambridge 
+too is not rarely alluded to by contemporary annalists. How- 
+ever much persons may censure or ridicule the direction taken 
+by human thought in the thirteenth century, it cannot be 
+doubted that it was marked by considerable activity. Henry 
+seems to have conferred considerable privileges on the uni- 
+versities, and to have shewn them great favour. His reign 
+saw the commencement of the collegiate system, in the en- 
+dowments of Merton College and Peterhouse. 
+
+The moral and material progress of society almost always 
+escape the attention of the contemporaneous historian. But 
+succeeding writers may detect their course in the tone taken 
+by those who criticise the acts of the government under which 
+they live. Mr. Hallam has noticed the diflFerence between 
+the complaints of a writer like Hoveden, and of another like 
+Matthew Paris. The wail over universal oppression, violence, 
+and lawlessness, is changed for indignant comment on unwise 
+administration, and uncourtly criticism on the king's domestic 
+and foreign policy. This alone would be evidence of a radical 
+change in the general condition of the people. I do not doubt 
+that much of the condemnation passed by the monk of S. Al- 
+ban's on Henry's public acts is just; but it is clear, I think, 
+that Henry was a far better monarch than many who pre- 
+ceded him and many who followed him. The country be- 
+came prosperous during his reign, and the complaints made 
+about the greediness of his foreign relatives, and the extortions 
+of the pope, are indirect evidence of the material progress 
+which marked Henry's government. He may not have been 
+possessed in great measure of that ferocious courage which 
+belonged to the house of Anjou, he certainly was not more 
+insincere than his father, his uncle, and his grandfather; and 
+his judgment was perhaps weak. But he succeeded to a mi- 
+nority in which the hereditary resources of the crown had 
+been narrowed by unsparing grants to the barons, and he was 
+always in difficulties. The great error of his policy, his at- 
+
+
+--page 6 INTRODUCTORY. 
+
+tempt to secure the crown of Naples for his son Edmund, and 
+the enormous indebtedness which he incurred, are the greatest 
+errors in his public policy. But he was, in the language of 
+the age, the feudal dependent of the pope, by an arrange- 
+ment, extorted perhaps in the first instance from the fears of 
+John, but ratified afterwards by the policy of Pembroke. The 
+error of Henry's attempt seems to me, judging from the 
+general way in which such matters are interpreted, to have 
+consisted in its failure. 
+
+It does not seem, therefore, that Henry was a monarch to 
+whom Mr. Hallam's epithet 'worthless' is fairly applicable, if 
+we judge his administration by its effects. His private cha- 
+racter is untarnished, and he seems to have been easy, open, 
+and kind. He was, it appears, passionate, but easily appeased, 
+and his memory is not stained by cruelty. The heaviest 
+charges on his management of domestic affairs are his ne- 
+potism towards his half-brothers and his wife's relations; his 
+straining the rights of the crown during the vacancy of abbeys 
+and bishoprics, by committing waste on the ecclesiastical de- 
+mesnes; and his practice of heaping prodigal grants on his 
+favourite clerks. But during his long reign England grew 
+greatly in opulence, in public spirit, and in practical freedom, 
+and became the home of a nation, while before it was a battle- 
+field for hostile races and a scene of atrocious oppression. 
+
+The reign of Edward the First presents few exceptional 
+facts to the historian of prices. The period was disturbed 
+by no important social change, although it was marked by 
+many legal innovations, and by the developement of that poli- 
+tical system which has, though modified by time, remained 
+to the present day. The new method of entails, and the 
+abolition of the right of subinfeudation, originally enacted, it 
+would seem, in order to secure certain privileges which were 
+being imperilled by the subdivision of land in fee, have had 
+a lasting effect on the social system of this country. But it 
+does not appear that entails were general before the fifteenth 
+century; and it cannot be doubted that the check to the 
+
+
+--page 7 INTRODUCTORY.
+
+practice of subinfeudation was indirectly matter of that policy 
+which relieved England from feudal wars, though dictated 
+perhaps in the first instance by a protective impulse. The 
+discussion, however, of these legal novelties lies within the 
+province of the jurist, rather than in that of the economist ; 
+and the more so, since the operation of either law must have 
+been slow, and the social changes gradual. 
+
+Towards the close of the thirteenth century, sheep were, 
+for the first time, affected by a new disease, which has been 
+handed down to our own times, under the name of scab. 
+The specific for this complaint, so serious to the landowner, 
+was in the first place verdigris, copperas, and quicksilver, but 
+in the last few years of the same century tar-dressing was 
+adopted, and has been, I believe, uninterruptedly employed 
+from that to the present time. 
+
+The political convulsions and intrigues which occurred 
+during the reign of Edward's son were accompanied by severe 
+privations, consequent on a series of unproductive harvests. 
+Never perhaps in the whole period before us were the suffer- 
+ings of the English peasantry greater. Besides the misery of 
+the famines, they had to suffer the insolence and rapacity of 
+Edward's favourites, and especially of the younger Spenser; 
+the extravagance of the court, whose expenditure was, for 
+the times, enormous, and the scandalous condition in which 
+the country was placed by the feebleness and indecision of 
+the king. During the last years, however, of Edward's reign 
+some of these evils were alleviated. 
+
+The earlier years of Edward the Third's reign were, on the 
+whole, economically speaking, prosperous. The harvests were, 
+on an average, abundant, and though the country was em- 
+barked in a foolish and wasting war with France, the neces- 
+sities of the situation brought about intimate commercial 
+intercourse with the great Flemish manufactories, and ulti- 
+mately led to the developement of much industrial prosperity 
+in Norfolk, and some other eastern counties. It is possible 
+that the war in which Edward embarked might have ter- 
+
+
+--page 8 INTRODUCTORY. 
+
+minated differently, and the victory of Poitiers have been as 
+pregnant of events as that of Hastings, had it not been for 
+the Black Death. 
+
+I shall attempt below to describe the calamity which visited 
+England, after it had wasted the greater part of Central 
+Europe. The first incidence of no plague was ever so de- 
+structive, the effects of none have been so singular. It swept 
+away half the people, according to some estimates. It cer- 
+tainly created an economical revolution. Banished at last, 
+after occasional outbreaks for several centuries, from Western 
+Europe, in consequence of improvements in the sanitary con- 
+ditions of society, it still lingers in the east, and the oriental 
+plague of the Levant and Egypt is the legitimate successor 
+of the Black Death. Its ravages in France were as destruc- 
+tive as those in England, but the weakness induced upon 
+the latter country made the resuscitation of French inde- 
+pendence possible. 
+
+The plague bore its fruit at home in the insurrection of 
+the peasantry at the beginning of the reign of Richard the 
+Second. The rebellion was put down, but the demands of 
+the villains were silently and effectually accorded; as they 
+were masters for a week of the position, the dread of an- 
+other servile war promoted the liberty of the serf; and the 
+close of the fourteenth century sees the small freeholder, and 
+probably the tenant in villenage, such important personages 
+in the social order, as to be competent for the possession of 
+those large political rights which are embodied in the election 
+statute of Henry IV. It is with the second year of this suc- 
+cessful usurper's reign that the economical history of these 
+volumes is concluded. 
+
+The method which I propose, in dealing with the facts 
+contained in the second volume, is to comment, in the first 
+place, on the leading features of medieval agriculture, and 
+the rate of production from the soil. The state of society, 
+as estimated from economical considerations, will demand 
+some attention, and I shall seek, as far as the scanty mate- 
+
+
+--page 9 INTRODUCTORY.
+
+rials allow me, to shew how wealth was distributed in Eng- 
+land during the fourteenth century. It will be needful also 
+to discuss the moneys, the weights, and the measures of the 
+time, a subject on which some variety of opinion has pre- 
+vailed; and to determine, as far as possible, the proportion 
+which such moneys bore to present values. 
+
+From these general considerations I shall pass to actual 
+prices. Of these the most important are corn and labour, 
+partly because they bear most nearly upon the social history 
+of the time, partly because they can be estimated with the 
+greatest precision. Thence I shall proceed to comment on 
+the prices of agricultural stock and produce, and of the mate- 
+rials necessary for the industrial occupations of the time, 
+the subsistence of the labourer, and the supply of such con- 
+veniences as a rude manufacture and an undeveloped com- 
+merce afforded. 
+
+The tables of averages, and other numerical statements, 
+have been prepared with as much care and precision as my 
+abilities permit. I shall state the method which I have 
+adopted in each case, and as it is quite possible that abler 
+analysts may examine the figures which I have collected, I 
+leave them to determine whether my inferences are correct. 
+The facts of the second volume are far more important than 
+the comments of the first. 
+
+In order to make the tables as suggestive as possible, I shall 
+reduce the values of the most important among the series to 
+grains of silver, premising that the same value has been as- 
+signed throughout to the nominal currency, on the ground 
+that the issues of the mint were, in large payments at least, 
+corrected by the all but universal practice of weighing the 
+specie employed in the transactions of trade. 
+
+In conclusion, I shall attempt to tabulate certain prices, 
+with a view to exhibiting the purchasing power of money at 
+certain dates in the period before us, so as by these means 
+to supply opportunity for comparison with the facts of later 
+times. It will be admitted that the historical value of such 
+
+
+--page 10 INTRODUCTORY. 
+
+facts as may be collected, and such inferences as may be made 
+from them, will be relative to the social progress, and occa- 
+sionally to the social retrogression, of the people. 
+
+We shall find that, commencing with a period in which 
+population was, when compared with the rate of production, 
+large, the nation was affected by great scarcity in the begin- 
+ning, and unexampled mortality at the middle, of the fourteenth 
+century. The effects of the former visitation were transient, 
+of the latter permanent, and, as might be expected on grounds 
+of antecedent probability, the condition of the masses of the 
+community was greatly elevated by the calamity of the plague. 
+With these changes the present volumes close, at an epoch 
+in which the feudal aristocracy was seriously embarrassed, and 
+the yeomanry was acquiring strength and importance. 
+
+If I may be permitted to anticipate the facts of the centu- 
+ries which follow those which I have now to lay before my 
+reader, it may be stated, that the husbandman reaped the 
+harvest of the internecine struggle which commenced in the 
+middle of the fifteenth century. The great war of succession 
+almost destroyed the feudal aristocracy, by its expences, its 
+forfeitures, its proscriptions. It was carried on by the barons ; 
+for the crown, the possession of which was the ostensible ob- 
+ject of the conflict, was utterly impoverished. After this 
+suicide of the aristocracy, the crown became all powerful, 
+and created a new nobility on the ruins of the church. By 
+causes wholly different from those which ruled before, the 
+mass of the people were losers by the Reformation. They 
+recovered themselves slightly in the seventeenth century, and 
+had a golden age during the first half of the eighteenth. But 
+within the time of our fathers they have been depressed again 
+and the peasant has again become a serf, and the yeoman 
+has disappeared in the absorption of nearly all the land of 
+England by a small number of great proprietors. 
+
+
+--page 11
+
+CHAPTER II. 
+
+MEDIEVAL AGRICULTURE. 
+
+The accounts from which the prices contained in the se- 
+cond volume are extracted, contain abundant evidence of the 
+state of agriculture in the thirteenth and fourteenth centu- 
+ries; and as nearly all the English counties are represented 
+in the aggregate of the documents, we find that the process 
+of cultivation varied little throughout the country. The same 
+kinds of grain, with hardly any exception, are sown in the 
+north and the south; the same kind of labour is needed, and 
+the same method of culture is adopted. Similarly the accounts 
+kept of farming and farm produce, the weights and measures, 
+the order of the entries, and the names used to designate 
+stock and implements, are identical, or nearly so, in any two 
+estates, however locally remote they were. Such an identity 
+could not have been effected unless the communication be- 
+tween different parts of England had been far more free and 
+full than it is generally supposed to have been at that time, 
+or than it actually was three centuries afterwards. 
+
+Nor, again, are there any important variations traceable in 
+the method of culture, the kinds of seed sown, the character 
+of stock. In certain districts indeed rye was more freely cul- 
+tivated than in others: in some barley formed the principal 
+crop. There are, however, hardly any farms on which some 
+breadth of wheat, barley, and oats were not sown, or where 
+all kinds of stock were not kept. 
+
+Similarly the distribution of land, and the tenure by which 
+it was occupied, are generally uniform. Local habits, origin- 
+ally perhaps local privileges, caused some differences in tenure 
+in particular places; for instance, in the county of Kent, in 
+which it appears customary service was unknown. I have 
+
+
+--page 12 MEDIEVAL AGRICULTURE.
+
+never found a trace of it on Kentish estates, many of which 
+have been examined for the purposes before me in compiling 
+the evidence in the second volume. 
+
+The parish or manor in the period before us was divided 
+into four portions : first, the lord held, together with his feudal 
+rights over the whole, except the glebe of the parson or im- 
+propriator, a demesne which he cultivated by his bailiff: se- 
+condly, there were the small estates possessed by the free- 
+holders, who paid quit-rents : thirdly, there were the tenements 
+and lands of villains, bordarii, or cotarii : and lastly, the waste, 
+or common, over which all tenants had right of pasture, and 
+sometimes of turf. The estates of the villains were frequently 
+as extensive as those of the freeholders, and were always, as 
+far as I have found, held at fixed and commutable services, 
+the commutation being determinate, but accepted only at the 
+pleasure of the lord, who could exact the service, if he pre- 
+ferred to do so, just as the tenant might, if he saw fit, proffer 
+his service instead of the money payment. 
+
+The buildings belonging to the lord consisted of manor- 
+house and grange. The manor-house contained at least three 
+principal rooms — the hall, the dormitory, and the solar; 
+and during the absence of the lord was occasionally inhabited 
+by the bailiff: the lord making periodical visits to his several 
+manors, for the purpose of inspecting his estate, and taking 
+account of the proceeds. The hall was the chamber used for 
+the manor court ; for receiving homage ; for inflicting or levy- 
+ing fines; and, in case the lord had the high jurisdiction, 
+that is, the right of fossa and furca, pit and gallows — the 
+former for female, the latter for male culprits — was the scene 
+of judicial sentence. Here too the youth were registered in 
+the decenna, and the view of frankpledge was held. 
+
+The solar was the state chamber, the parlour of the farm- 
+house fifty years ago; built generally, as its name implies, 
+towards the south. The solar in the manor-house of Holy- 
+well in Oxford is thus constructed. Excellent specimens of 
+the Norman manor-house are still to be seen in the house 
+
+
+--page 13 MEDTEVAL AGRICULTURE.
+
+called Pythagoras Hall, on the north side of Cambridge, a 
+building belonging to Merton College, and part, it appears, 
+of the founder's patrimony; and in John of Gaunt's and the 
+Jew's House at Lincoln. 
+
+As might be expected, the furniture of the manor-house 
+was scanty. Glass, though by no means excessively dear 
+(vol. ii. p. 535. 547. iii. 574, iii.), appears to have been rarely 
+used. A table put on tressels, and laid aside when out of 
+use, a few forms and stools or a long bench stuffed with 
+straw or wool, covered with a straw cushion worked like a 
+beehive, with one or two chairs of wood or straw, and a chest 
+or two for linen, formed the hall furniture. A brass pot or 
+two for boiling, and two or three brass dishes; a few wooden 
+platters and trenchers, or more rarely of pewter; an iron or 
+latten candlestick; a kitchen knife or two; a box or barrel 
+for salt; and a brass ewer and basin, formed the moveables 
+of the ordinary house. The walls were garnished with mat- 
+tocks, scythes, reaping-hooks, buckets, corn-measures, and 
+empty sacks. The dormitory contained a rude bed, and 
+but rarely sheets and blankets, for the gown of the day was 
+generally the coverlet at night. 
+
+In the inventory of John Senekworth's effects, who was for several 
+years bailiff for Merton College at their manor of Gamlingay in 
+Cambridgeshire, as well as at other places before, we find a larger 
+variety. Senekworth was evidently a valued servant of the College 
+(one of his brothers was a fellow) ; for a few years before his death 
+the society presented him with five pounds, " ex speciali gratia soci- 
+orum." The date of the inventory is 13 14, the deceased bailiff having 
+bequeathed his goods to the college. It contains a tapetum, valued 
+at 7s., two others at 5s., one more at twenty-pence; 6 lintheamina 
+(sheets) at four shillings each, and a materace at one shilling ; a red 
+coverlet at two shillings ; a counterpane (co-opertorium pro lecto) at 
+four shillings ; a red gown at eight shillings, another at three 
+shillings ; a blue gown at four shillings ; a kaynet gown at two shil- 
+lings and sixpence ; a russet tunica at one and sixpence ; a banker, 
+i. e. a cover for a seat, at fifteen-pence ; a table-cloth at one shilling ; 
+
+
+--page 14 MEDIEVAL AGRICULTURE. 
+
+two more and, two napkins at six shillings three quisins, i. e. cushions, 
+at ninepence each. Besides these articles of linen and clothing, 
+Senekworth possessed three gold rings, one of which was broken, 
+the whole being valued at eighteen-pence ; a purse at fourpence ; 
+a pouch at threepence ; a knife at a penny ; a forcer, that is, a chest, 
+at three shillings, and another at sixpence ; a leathern forcer at three- 
+pence; two glasses (murræ), one with a silver stand, worth seven 
+shillings, a second, eightpence; four silver spoons, valued at three 
+shillings and twopence; two silver seals (firmacula), two shillings, 
+one of these being mounted by a gilded penny as a symbol; three 
+books of romance, valued at threepence ; two pair of linen panni 
+at a shilling ; a basin and ewer at a shilling ; besides some less 
+characteristic effects. Senekworth, however, must have been an 
+official of more than usual opulence and social position. 
+
+The dairy was annexed to the manor-house, and the cheese 
+and butter, though an important source of income, was the 
+cheapest part of agricultural produce, as measured by modern 
+experience. The furniture of the dairy was composed, as in 
+our own day, of pail, milk-pan, churn, cheese-press, cheese- 
+shape, butter-mould, and straining-cloths. Rennet (coagula), 
+though generally produced on the farm, was occasionally pur- 
+chased. On some estates a register is kept of the days and 
+months in which cheese-making was carried on, and the 
+amount made at the different parts of the year. The cheeses 
+were, it appears, small, to judge from the price of the several 
+formæ in which they were shaped (vol. ii. p. 6i8). The largest 
+could not have weighed more than from six to eight pounds. 
+Butter, besides being pressed into gallon tubs or jars, was 
+made, as in modern times, into pats; at least we read of 
+formæ for butter, which seem to be the same with the pat- 
+terns used at present (vol. ii. 568. i. 569. iv.), and we may be 
+able to trace the same fact in the disci of vol. ii. p. 599. 
+This part of the medieval farm was under the management 
+of a deye, or dairy-woman. 
+
+The grange contained the grain kept in stock. Towards 
+the close of the year this is generally very low. It was laid 
+
+
+--page 15 MEDIEVAL AGRICULTURE.
+
+up in this building either in sheaf, or threshed and stored in 
+sacks. These sacks were of very various sizes, not as now, 
+containing generally four bushels. Some of the crops were 
+stored in ricks, called mayæ, or moyæ, a word which still 
+lingers in the rural 'mow.' Threshing was then, as it re- 
+mainedtill our time, when it has been almost superseded by 
+machinery, the chief farm-work of the winter. 
+
+In vol. ii. p. 665, a list is given of the stock transferred to 
+the new bailiff of the Holywell Manor, Oxford, on the re- 
+moval of his predecessor; and the bailiff's roll of Cuxham, 
+p. 617, gives a similar list. It seems that four horses or oxen 
+were ordinarily assigned to each plough, the ploughing horses 
+used being generally called affri, and, judging from their 
+price, of an inferior kind. The plough was plainly of rough 
+and cheap construction, the costliest parts of the fabric being 
+the share and the iron tips called ferripedales, with which 
+the wooden frame of the share was protected. These plough- 
+shares were of various value : a distinction being made between 
+summer and winter shares. The few notes given in pp. 606-8 
+shew that a dry season, and the consequent wear of iron in 
+ploughing, were important events in the economy of the 
+farm. The coulter was rarely used, or, at any rate, is very 
+rarely quoted. 
+
+The land was generally ploughed twice, the latter plough- 
+ing being called rebinatio. Half the arable estate, as a rule, 
+lay in fallow, called warectatio in the language of the time. 
+Occasionally the sheep of a neighbouring farm were hired to 
+lie on the ground, and so to fertilize it. The rate at which 
+this service was paid may be seen in vol. ii. 578. iv. 580. 
+ii.iii. From the last entry it would seem that eight weeks 
+were considered necessary in order to get land in good order 
+by these means. 
+
+It is probable that the ploughing was very shallow. The 
+high price of iron, and the rudeness of the ancient plough, 
+preclude the notion that the soil was turned over very 
+effectually. 
+
+
+--page 16 MEDIEVAL AGRICULTURE. 
+
+I have never found any separate payment made for the 
+labour of sowing, and am disposed to believe that this duty 
+was performed by the bailiff himself. Fifty years ago it was 
+generally done by the small farmer in person. The receptacle 
+for the seed was known by the name of seedlep, or more 
+rarely seedcod. The rate sown was about two bushels to the 
+acre of wheat and rye, four bushels of barley, bere or drage, 
+and oats, two bushels of beans, peas, and vetches. Beans 
+were generally dibbled by women. Wheat and some kinds of 
+barley were sown in the winter, and called semen hyemale, 
+but most of the barley and other kinds of grain in the spring, 
+and called semen quadragesimale. 
+
+I find no trace of harrowing or rolling. But corn was 
+hoed, sometimes by customary service, occasionally by hired 
+labour. It is possible that the hoeing was used as much to 
+break the clods and cover the seed as to remove weeds. 
+The implements used are mattocks and hoes (herciæ). 
+
+Hay was mown partly by the regular servants of the farm, 
+partly by the customary tenants, partly by hired labour. This 
+labour was often obtained from a distance. It appears that 
+when the grass was mown the task of tedding and cocking 
+the hay was performed by persons on the spot, for it rarely 
+happens that this service is priced. The hay was gathered 
+into ricks, and, as at present, cut into trusses. It is hardly 
+needful to observe that the grass was all native. It was long 
+after the period before us that artificial or foreign grasses 
+were introduced. Hence the means for supporting winter 
+stock depended upon the supply of hay, and such straw as 
+was available for the animals kept on the farm. The bailiflf^ 
+calculating his resources, killed down for salting, at about 
+St. Martin's day (November 11th), as many sheep, oxen, and 
+calves as exceeded his means of sustenance. 
+
+The business of harvest was the most important in the 
+year, and, as at present, occupied a month or six weeks, 
+according to the season. 
+
+The corn appears to have been cut rather high on the stalk,
+
+
+--page 17 MEDIEVAL AGRICULTURE.
+
+for it is frequently the case that the stubble is mown after 
+the crop is gathered. The wages paid for reaping will be 
+adverted to below. It will be seen that the money payments 
+made to the hired servants of the farm were considerably 
+higher in the harvest term or quarter than at other times. 
+The labourers were generally allowed beer, were frequently 
+fed, and on some manors feasted at the termination of the 
+harvest. A pig for the farm labourers invariably figures in 
+the charges incurred for autumn on the Wolrichston estate. 
+The same estate supplies the labourers in the same time with 
+two red herrings a day. 
+
+After the harvest was over pigs and geese were turned 
+into the stubble. For a certain payment the swine belonging 
+to the villagers were permitted the run of the fields. In the 
+Cuxham account, vol. ii. p. 618, the charge on this head is 
+found among the receipts. It is one of yearly recurrence, 
+but never of any important amount. 
+
+As might be expected, in the absence of artificial grasses 
+and winter roots, natural meadow was exceedingly valuable, 
+and bore, comparatively speaking, a high rental. A record 
+of the rates at which the acre of grass was sold will be found 
+in vol. ii. pp. 179, 180. The greater part of the area from 
+which this grass was procured is still occupied as meadow. 
+The second crop of grass, or aftermath, is called rewannum, 
+and was, of course, of far less value than the spring crop. 
+Perhaps the rate paid for an acre of grass in Holywell, Oxford, 
+was enhanced beyond its customary amount in consequence 
+of its nearness to the town. 
+
+The manor-house possessed a garden and orchard. But the 
+former was very deficient in vegetables. The householder of 
+the thirteenth and fourteenth century grew onions and leeks, 
+mustard, and garden or green peas. He probably also possessed 
+cabbage, though I have never found either seed or plants 
+quoted. Apples, and sometimes pears, are mentioned as part 
+of the orchard produce, but we read of no plums, except once 
+of damsons. A regular part of the produce of the orchard was 
+
+
+--page l8 MEDIEVAL AGRICULTURE. 
+
+cider, and its low price seems to suggest that it was made 
+in considerable quantities. Sometimes, too, wine was grown 
+in England, though not, perhaps, so frequently as has been 
+imagined, the word vivarium having been, it appears, often 
+read as vinarium. Crabs were collected in order to manu- 
+facture verjuice — an important item in medieval cookery. 
+Bees, though honey was dear and wax very high priced, do 
+not seem to have been commonly kept, though some few 
+entries of hives and swarms have been found. 
+
+None of the servants were, it would seem, maintained in 
+the house, except occasionally during harvest. Robert Old- 
+man, the bailiff of Cuxham, in the account printed in vol. ii., 
+was one of the villains of the manor, though his position 
+suggests that an officer, to whose hands so much was entrusted, 
+could not have been the serf without rights or property, which 
+our historians are accustomed to consider the villain of that 
+epoch to have been. The Oldmans, father and son, were 
+bailiffs of this manor during the greater part of the time 
+in which it was farmed by the college{^a}. 
+
+The bailiff appears to have regularly attended the markets. 
+The Cuxham bailiff goes to Henley-on-Thames, the river 
+being, in the middle ages, permanently navigable to London, 
+it seems, from this point only. One of the customary services 
+on this manor is that of carriage to Henley. 
+
+The regular farm servants, after the bailiff, were the plough- 
+men and drivers, one to each plough, the carters, the cow or 
+oxherd, the pig-keeper, and the dairy-woman. In case sheep 
+were kept, one or two shepherds were engaged. All these 
+persons had land and stock of their own. The dairy-woman 
+often purchases the calves, the shepherd has his own little 
+flock, and is occasionally remunerated by permission to use 
+the lord's pasture. 
+
+The stock on the farm is varied. Horses, oxen, cows, and 
+
+{^a} Similarly, ii. 611. ii., it is clear from the entry given, that the bailiff of 
+Stillington was a serf of the house, for it was from such persons only that the lord 
+was entitled to exact a fine on a daughter's marriage or a son's education. 
+
+
+--page 19 MEDIEVAL AGRICULTURE.
+
+poultry are almost universally found. Sheep are not always 
+kept. They are not found, for instance, on the Holywell, 
+Cambridge, and Elham estates. On the first named estate it 
+was found advantageous to sell the standing grass: on the 
+last, Merton College bred horses, or at least trafficked largely 
+in them. A singular example of the latter transactions will 
+be found in vol. ii. p. 203. ii. 
+
+Annexed to this chapter will be found a table of the pro- 
+duce of corn sown, and of the average under cultivation in 
+the years 1333-1336 inclusive, in particular localities. The 
+eleven estates specified, though not the whole endowment of 
+Merton College, constitute the whole of that which they held 
+in hand and farmed on their own account. A second table 
+supplies information as to the amount of stock kept on each 
+estate during the same years, and the losses by disease under 
+the generic name 'murrain.' The first three in the list are 
+situated in Surrey, the fourth in Kent, the fifth and sixth in 
+Cambridgeshire, the seventh in Bucks, the eighth in Warwick, 
+the ninth and tenth in Oxfordshire, the last in Hants. The 
+inferences are, therefore, derived from a wide area, namely, 
+the south-eastern and southern counties, and the facts may 
+be taken as fairly typical. 
+
+Hedging and ditching, the latter operation with a view 
+to draining the soil, were frequent expedients in medieval 
+agriculture. Where stone was available and easily laminated, 
+trenches were dug, and a rude drain was formed by laying 
+large stones in the course. Marling too was common, of 
+course, on stiff soils, more frequent indeed than the few 
+notices given of the practice in vol. ii. pp. 454, 455, might 
+suggest. Lime was also used for dressing land. It is hardly 
+necessary to say, that the only manure commonly employed 
+was that of the stable and farm-yard. StifF lands, on which 
+water was apt to lie, were ridged. 
+
+In order to carry on the necessary business of the estate, 
+the lord was obliged to leave considerable sums in the custody 
+of his bailiff. The aggregate amount of the liabilities debited 
+
+
+--page 20 MEDIEVAL AGRICULTURE. 
+
+to the bailiffs of the estates contained in the subjoined table 
+is, for the year 1333, £100 11s. 9d.; for 1334, £121 1s. 6½d.; 
+for 1335, £120 13s. 3¼d.; for 1336, £120 4s. 3d. In the last 
+three years the amount of indebtedness is increased by the de- 
+ficiency in the accounts of the Elham officer. In 1337, the 
+debt due from this bailiff, which had stood for some time at 
+upwards of £47, reached nearly £62, and formed one of the 
+grounds of complaint embodied in the Scrutiny printed in 
+vol. ii. pp. 670—674. On the whole, however, apart from the 
+capital value of the stock, the society of Merton College were 
+constrained to leave at least a sixth part of their net income 
+in the hands of their farm agents. 
+
+DEBITS.
++-------------+---------------+--------------+--------------+--------------+
+|             |     1333.     |     1334.    |     1335.    |     1336.    |
++-------------+---------------+--------------+--------------+--------------+
+|             |    £  s.  d.  |   £  s.  d.  |   £  s.  d.  |   £  s.  d.  | 
+| Maldon      |    4  18  4¾  |  11   7  5¾  |   5   1  7   |   8  14  8¼  |
+| Letherhead  |    2   0  0   |   2  13  8½  |   1  19  1½  |   1   3  9¼  |
+| Farley      |    3   6  5½  |  20  18 11¾  |   3  19 10¾  |   4  14  6   |
+| Elham       |   18   1  8   |  27  10  0¾  |  47  13  0   |  47  12  3¾  |
+| Cambridge   |   11   8  1¾  |   7  15  6¼  |   4   2  1½  |   9  12  4   |
+| Gamlingay   |    5   8  3   |   2  17  2½  |   6   3 10½  |   1  14  1¾  |
+| Cheddington |   13  11  8¼  |   4   7  6¼  |   3  18 10¼  |   2   6  9¼  |
+| Wolford     |    7  14  0   |   4  18  5¾  |  18  19  4   |  10   0  3½  |
+| Cuxham      |   21  12  9¾  |  19  16  7½  |  11  11  7¾  |  16  11  9¾  |
+| Holywell    |   12  13  8¼  |  18   8  3¾  |  17   1  8   |  16   8  1¾  |
+| Basingstoke |(owing) 3  5¼  |       7  9   |   0   2  2   |   1   5  5½  |
++-------------+---------------+--------------+--------------+--------------+
+
+On an estate like that of Maldon, which, during the three 
+years contained in the subjoined account, cropped 273, 269. 3, 
+264, and 277. 2 acres and roods respectively, the capital 
+necessary for carrying on operations must have amounted to 
+upwards of £100 in money of that time. The corn used for 
+seed was, at the average price of corn, worth about £19 : 
+the live stock, from similar averages, must have reached about 
+£55, and the dead stock would have been worth from £15 
+
+
+--page 21 MEDIEVAL AGRICULTURE.
+
+to £17. There must also be reckoned the money-wages of 
+labour, the allowances to servants, the cost of wear and tear, 
+especially in tools and agricultural implements, and the 
+charges of the harvest, besides a variable sum for insurance 
+or loss, no inconsiderable item, as the reader will observe by 
+glancing at the annual deaths by murrain, the generic name 
+for all fatal diseases and accidents to live stock. 
+
+On the other hand, there are items, cheese, butter and 
+eggs, wool, fuel and fagots, and the increase of stock by 
+breeding, which swell the receipts. The profit on growing 
+corn must, owing to the exceedingly meagre return to the 
+seed, have been very small, and the advantages obtained by 
+the medieval agriculturist can only have been derived from 
+the returns of his farm stock. As we proceed, we shall find 
+reason to believe, that while the cost of corn, owing to the 
+low rate of production, was high, and the price necessarily 
+considerable, the market value of all other farm produce, wool 
+and hides excepted, was singularly low, and obtainable in 
+plenty by the general community. In these times, I con- 
+clude, the culture of the soil for corn crops was a necessity 
+and not an advantage; and the general distribution of land 
+drove the greater proprietors to such kinds of cultivation as 
+would not have been before them except under such circum- 
+stances, and which were abandoned when the practical inde- 
+pendence of all landowners led them in the sixteenth century 
+to extensive sheep farming{^b}. 
+
+The value of timber, and especially fuel, was comparatively 
+high. Periodical sales were made of the larger trees, and 
+a portion of the underwood, fit for hurdles or fagots, was 
+regularly cut every year, as, for instance, at Letherhead and 
+
+{^b} It might be possible to give an estimate of the percentage of profit on agri- 
+culture during the period before us. It is certain that it fell far below the ordinary 
+rate of interest on money. But, as in a state of society like that which existed in 
+the thirteenth and fourteenth centuries, and indeed for a long time after, rates of 
+profit and interest were not and could not be relative, a calculation as to the amount 
+of the former would only lead to false impressions, and it is better to state the facts 
+of the case only. 
+
+
+--page 22 MEDIEVAL AGRICULTURE. 
+
+Maldon. The sale of timber was announced to the public 
+of the neighbouring towns by a crier. (See ii. 610. i.) This 
+official also cried stolen cattle. (612. i.) 
+
+The rate of profit on agricultural operations, taken in the 
+aggregate, and carried on under the management of a bailiff, 
+was, I conclude, exceedingly low ; so low, indeed, as to 
+make it certain that even a slight change in the circum- 
+stances which surrounded the earlier system of agriculture 
+would wholly alter its method, and ultimately bring about a 
+complete revolution in the social condition of the great mass 
+of the community, immediately or speedily after the new set 
+of circumstances was recognized. The change took place in 
+the middle of the fourteenth century, and among the earliest 
+to take advantage of the altered circumstances, and adapt 
+their policy to what constituted the immediate interest of the 
+society, were the warden and scholars of Merton's College. 
+
+The founder of this society, in establishing so singular a 
+novelty as a college or corporation of wholly secular students, 
+upon whom there was laid no condition of entering into 
+holy orders, and who were to be {_ipso facto_} deprived of his 
+benefaction if they took the vows of any among the mo- 
+nastic bodies, seems to have had many purposes before him. 
+He wished, among other objects, to make his warden an 
+active as well as a wealthy and dignified official, and yet, 
+by giving the fellows a virtual jurisdiction over any misbe- 
+haviour or negligence on his part, to render him perpetually 
+responsible. He wished his fellows to be students in the 
+fullest sense of the word, and yet appointed so many officers 
+in his society, that every one who enjoyed his benefaction 
+would be called upon to go through a considerable amount 
+of real business. The estates belonging to the society were 
+widely scattered, and were visited periodically. The most 
+minute and varied examination of income and expenses was 
+taken, and the debtor and creditor account, as far as possible{^c}, 
+
+{^c} I say as far as possible, for the use of Roman numerals was a serious hindrance 
+to accuracy in striking a balance. The extreme slowness with which the decimal or 
+
+
+--page 23 MEDIEVAL AGRICULTURE.
+
+elaborately balanced. Every device was adopted which would 
+tend to enlarge the income of the foundation. The founder's 
+object in urging upon his fellows the duty of economizing 
+their resources, of avoiding legal procedure, and of insisting 
+that all decisions of the college authorities, as to the status 
+of its members, should be without appeal, was to continually 
+increase the number of persons who might share his bene- 
+faction. It will be seen in the Scrutiny given in the second 
+volume, pp. 670-674, how fully the fellows apprehended their 
+duty in this direction, and the archives of the society prove 
+that the injunctions of the Visitor, from very early times, were 
+issued in order to enforce the obligation. 
+
+The fellows of Merton in the thirteenth and fourteenth 
+centuries were very shrewd and active men. They were all 
+trained to business, and they strove, as far as possible, to 
+make the most of their means. They seem to have sympa- 
+thized with the great enemy of those orders of monks, from 
+association with whom their statutes so rigidly forbad them. 
+The private history of Wiklif is very obscure. He has been 
+claimed by Queen's and Balliol, on the strength of his sur- 
+name appearing in the domestic accounts of those societies, 
+for it is very seldom that the members of any college were 
+designated by their baptismal names. It is notorious that 
+these names were often changed. But the fellows of Merton 
+believed that Wiklif was one of their body. He is specially 
+designated in a list of the fellows compiled in the first year 
+of Henry the Sixth, and the date of his election, no other 
+fellow being thus distinguished, is added to his name. In 
+the days of that regency, when John of Bedford was at the 
+head of affairs, and Lollardism was very unpopular in high 
+quarters, and the government was preparing to revolutionize 
+the franchise, by limiting its exercise to the forty-shilling 
+
+Arabic system of numerals was adopted, is a striking illustration of the difficulty there 
+is in effecting the general use of an essential reform. The Roman method must have 
+been singularly inconvenient, and yet, though Arabic numerals are found in the latter 
+end of the thirteenth century, they were not employed familiarly for calculation 
+till the end of the sixteenth. 
+
+
+--page 24 MEDIEVAL AGRICULTURE.
+
+freeholder; and Lincoln College was being founded in order 
+to supply a perpetual succession of enemies to the doctrines 
+of Wiklif, (for Fleming had been once a follower of the great 
+reformer, and hated him and his memory and his associates 
+at about the time when he became Bishop of Lincoln, and 
+hated him most heartily when he intrigued to become Arch- 
+bishop of York): in such a time, the acknowledgment that 
+Wiklif had been one of the fellows of Merton was just that 
+kind of confession which deserves credit. At any rate, the 
+fellows of Merton were popularly called Lollards up to the 
+early part of the eighteenth century. 
+
+Before the great plague the college had leased some of its 
+lands. They let their estate at Ibstone for thirty-five years 
+in 1300, and that of Gamlingay for fourteen years from the 
+same date. Basingstoke was let for twenty-one years from 
+1310; and Wolford had probably been farmed in the same 
+manner, as the earliest bailiff's roll of this estate is in the 
+year 1322, and contains no statement of arrears, one of the 
+most characteristic signs of the commencement of a new 
+system of occupation. The northern estates were let as early 
+as 1280, and the college never farmed on its own account 
+its lands in Leicestershire. 
+
+After the plague most of the lands were let. The wages 
+of labour, despite the restrictions put on them by the statute 
+of 1350, rose so considerably that it was no longer profitable 
+to hold and cultivate by bailiff. Corn, it is true, was dear, 
+for between the years 1349 and 1376 the average price of 
+wheat was only three times below 5s. 6d., whereas in the next 
+twenty-five years it was sixteen times below that amount. 
+But even the high prices of wheat were insufficient to com- 
+pensate the enhanced cost of labour, and the college let its 
+lands on lease, at the best possible terms. 
+
+These leases were peculiar. The stock was let with the 
+land, either in whole or part, the rents being in money or 
+corn. The tenant on the expiry of his lease was bound to 
+return the same amount of seed corn and of live and dead 
+
+
+--page 25 MEDIEVAL AGRICULTURE.
+
+stock as he received, or their estimated value. The leasing 
+of cattle and sheep on these terms was very common before 
+the plague. One of the most familiar resources of the lord 
+is the firma vaccarum. Cows were let at 5s. a-year. 
+
+For instance, in a lease of the college lands at Farley, 
+granted in 1360, the tenant took two horses and seven affri, 
+valued at ten shillings each ; a bull reckoned at ten shillings ; 
+ten cows, each at eleven shillings ; four oxen, each at eighteen 
+shillings and fivepence ; twenty-four quarters of wheat, at six 
+shillings and eightpence ; six and a half of sprig, at four shil- 
+lings; three quarters and a bushel of frumentum vescosum, 
+at four shillings ; three quarters three and a half bushels of 
+barley, at four shillings and eightpence; two of peas and 
+two of vetches, at three shillings and fourpence; and forty- 
+nine and a half of oats, at two shillings. 
+
+This kind of tenure, closely analogous to the métairie of 
+South-western Europe, prevailed for a short time in England. 
+It is abandoned about fifty years after its commencement, 
+not indeed simultaneously, but generally, after such an in- 
+terval from its having been adopted on any estate. Thus, 
+with hardly an exception, the Merton estates are let on the 
+ordinary method of lease for years, at or about the be- 
+ginning of the fifteenth century. But New College, which 
+persisted on many of its estates in carrying on the old system 
+of cultivating by bailiff till the end of the first quarter 
+of the fifteenth century, does not get out of the land and 
+stock leasing till a considerable time beyond the middle 
+of that century. The leases are all short, and fines are 
+unknown. 
+
+A corporation could not or would not alienate its lands. 
+Hence the estate was preserved intact. But a very different 
+set of causes must have operated upon the lands of the feudal 
+lords. There can be no doubt that these were largely ali- 
+enated in small parcels. Many causes contributed to this 
+result. The price of labour continually rose, the price of 
+food continually fell, and hence the small occupier became 
+
+
+--page 26 MEDIEVAL AGRICULTURE. 
+
+more prosperous and independent. The habits of the land- 
+owners in the reign of Richard the Second were expensive, 
+for the nobles emulated the court. The rent of land was 
+very low, for the produce was worth very little more than 
+the cost of production. 
+
+By far the most important source of revenue possessed by 
+the landlords of these days were the quit-rents levied on free 
+tenants, and the compositions for services enacted from the 
+villenage. Actual servitude had long passed away, and pre- 
+carious possession with it. The option of taking labour for 
+land, instead of the pecuniary equivalent, still belonged to 
+the landowner, and was, no doubt, leased to the farmer with 
+the domain. It is clear that an attempt to enforce the 
+alternative of labour was one of the most powerful stimu- 
+lants to the great uprising of the serfs. The victory remained 
+nominally in the hands of the king and nobles : it was actu- 
+ally and very rapidly appropriated by the serfs. 
+
+It is very probable that grants of domain were made at 
+new quit-rents. Such an alienation was not an invasion of 
+the statute Quia emptores, and we know how general fee- 
+farm rents became. These fixed rents representing, at their 
+first creation, high rates for the use of land, were easily 
+borne when, in the fifteenth century, agriculture improved, 
+and the condition of the yeomanry became more prosperous. 
+But the enquiry into these changes cannot be anticipated 
+in these volumes. It is sufficient to shew that the causes 
+which led to that general prosperity among the mass of the 
+people, which is commented on by Fortescue, had their be- 
+ginnings in the close of the fourteenth century. 
+
+It will be seen that the largest part of the land under 
+the plough was occupied by crops of wheat, barley, and oats. 
+Wheat was the customary food of the people of this country 
+from the earliest times. Even if the evidence were not 
+abundant on this point, the breadth sown annually would be 
+conclusive proof. Barley was sometimes mixed with wheat 
+in the allowances made to farm servants, but its chief use 
+
+
+--page 27 MEDIEVAL AGRICULTURE.
+
+was in the manufacture of beer, which seems to have been 
+continually brewed in small quantities, and for immediate 
+consumption. Wheat is sometimes, but rarely, malted. Oat 
+malt is much more common. The chief use of oats was for 
+horse food, but oatmeal was made for the broth or porridge 
+of the house. 
+
+Rye was very scantily cultivated. An occasional crop on 
+many estates, it is habitually sown on few. It is regularly 
+sown in Cambridgeshire, and some other of the eastern coun- 
+ties. As the period before us passes on, it becomes still 
+more rare, and, as will be seen below, some of the later 
+years of this enquiry contain no entries of its purchase and 
+sale. 
+
+A peculiar kind of barley, called drageum, is very generally 
+cultivated, especially in the eastern counties. This is pro- 
+bably bere. Sprig appears to be another name for this kind 
+of grain; and it is likely that bericorn, berimancorn, and 
+some other forms of the name represent a grain identical 
+with drageum, or closely related to it. At least the rate of 
+seed to the acre favours such a view. Drage, like barley, 
+was made into malt, and is often thus specified in the ac- 
+counts. 
+
+The three leguminous plants, beans, peas, and vetches, were 
+generally, but not extensively, cultivated ; the average being 
+small in every case. Peas, however, are more frequent than 
+the other kinds, as will be seen from the second volume, and 
+from the table of average prices. They are grey, black, and 
+white, the last being, of course, the most valuable. Some- 
+times they are specially designated as pig-peas. They were, 
+I think, generally used for fattening hogs. It seems that 
+peas and beans are occasionally sown together, perhaps other 
+kinds of grain also. 
+
+Wheat and vetches appear to have been sown together, 
+especially at Farley, if, indeed, this be the interpretation of 
+what the Records call frumentum vescosum or vessetum. 
+Bullimung, which occurs early, is said to be a mixture of 
+
+
+--page 28 MEDIEVAL AGRICULTURE. 
+
+oats, peas, and vetches. It forms a regular crop at Horn- 
+church. 
+
+Hemp was cultivated to some extent. The seed is fre- 
+quently entered, but no record of the crop or of its desti- 
+nation is to be found. I am disposed to think that it was 
+employed for the home manufacture of ropes, but I have 
+never seen any entry of payment for such kind of labour. 
+It may have been hackled and woven by the servants of the 
+farm, the labour forming part of the regular work expected 
+from them. It could not, I am certain, have been sold with- 
+out being entered. On one occasion it is quoted as having 
+been purchased to feed pigs, a hazardous experiment ! 
+
+The question, whether, within the records of historical 
+times, any change in the ordinary temperature of these 
+islands can be certainly traced, is one which cannot but in- 
+terest those who enquire into the facts and conditions of 
+medieval agriculture. Geological periods, it would seem, 
+though certainly numerous, are separated by prodigious dis- 
+tances, and cover vast spaces of time. Changes, though real, 
+are hardly perceptible, because procession or retrogression, 
+submergence or upheaval, are too slow for our unassisted 
+powers of observation, and need, therefore, that these powers 
+should be exercised in the most cautious manner, and be 
+sustained by the aid of the most exact appliances. Unless, 
+therefore, we had the means of measuring changes almost 
+atomic, which modern science possesses, we could do no more 
+than guess at any alteration in the seasons, or any intensity 
+or diminution of the aggregate amount of solar heat, which 
+six hundred years ago might have affected these islands. 
+
+It would seem that if any change, to judge from the evi- 
+dence before us, has taken place in the physical constitution 
+of this country within the last six hundred years, it may be 
+inferred to consist in a slight diminution of the annual heat. 
+I take it for granted that effective drainage heightens and 
+that standing water lessens the average temperature. I do 
+not doubt that far more land was wet in the thirteenth than 
+
+
+--page 29 MEDIEVAL AGRICULTURE.
+
+in the sixteenth, and vastly more than in the eighteenth, 
+century. Again, it is generally admitted, that tracts of 
+forest land, though they may, in particular positions, afford 
+shelter, do, if we estimate the average of annual tempera- 
+ture, depress the total amount of solar heat{^d}. There can 
+be, I think, no doubt, that while ornamental wood was 
+scarce in the thirteenth century, and long afterwards, natu- 
+ral forest was abundant, and occupied considerable tracts or 
+belts. 
+
+Now, it is said that the cultivation of wheat was not, 
+till within the last hundred years, carried on successfully 
+beyond the north bank of the Humber, and that the chief 
+cereal produce in the northern counties was oats. This rule 
+holds good still on the western side of the island. In Arthur 
+Young's time, indeed, (Northern Journal, vol. iii. p. 378,) 
+land was cropped with wheat to some extent on the north- 
+east side of the island, but in much less quantity than in 
+the southern counties. But it is clear that wheat was grown 
+in Northumberland and Durham during the thirteenth and 
+fourteenth centuries. 
+
+Again, the vine was cultivated, and wine was manufac- 
+tured from home-grown grapes, as far north as Ditchingham 
+in Norfolk{^e}. Nor is the price at which the produce is sold 
+indicative of the quality being much inferior to ordinary 
+Bordeaux or Gascony. A vine is bought for the king's house 
+at Woodstock, in 1265. (ii. 594. i.) At the present time, 
+however, it would be hardly possible, I imagine, to ripen 
+English grapes sufficiently for the production of the thinnest 
+beverage. Vineries were attempted in many of the southern 
+counties, and the record of such cultivation lingers in local 
+names. Thus, for instance, near the road from Petersfield 
+in Hampshire to Eastmeon in the same county, there is a 
+steep hollow in the downs, having a south-by-west aspect, 
+which still goes by the name of 'The Vineyard Holm.' 
+
+The accounts which I have consulted contain but little 
+
+{^d} Lyell's Principles of Geology, cap, vii.
+
+{^e} ii. 548. ii. 
+
+
+--page 30 MEDIEVAL AGRICULTURE. 
+
+allusion to the seasons. Droughts are said to have occurred 
+in the spring and summer of 1284, 1325, 1331, 1344, 1362, 
+1374, 1377. The most serious of these must have been that 
+of 1325, for it is alluded to at once in the east, the midland, 
+and the western counties. Whenever a note is taken of such 
+an occurrence, it is generally done in order to explain the 
+fact that more than ordinary cost has been incurred for 
+iron. Similarly, when a wet harvest is noted, it serves to 
+account for the duration of the time occupied by this opera- 
+tion, or the increased charge incurred for threshing. And in 
+the same way, the prevalence of disease among sheep or cattle 
+is commented on, because it created a greater demand and a 
+higher price for medicaments, or explained losses of stock. 
+
+The period comprised in these volumes is too scanty to 
+enable me to hazard any opinion as to what may constitute 
+a cycle of the seasons. Hereafter, perhaps, when the evi- 
+dence of the whole time for which I purpose to collect facts 
+is supplied, it may be possible to discover some signs of re- 
+currence, and similar sequence. It cannot be doubted, that 
+even though no record of the seasons be supplied, the rise 
+and fall in the money price of the chief necessary of life, 
+wheat, will suffice to indicate, with sufficient exactness, the 
+plentiful or scanty produce of any year. It would be of 
+greater moment if such an enquiry could enable us to form 
+inductions for the future from the history of the past. 
+
+The live stock kept on the several farms comprised, as 
+has been observed, horses, cattle, sheep, pigs, and poultry. 
+Both horses and oxen were used for draught and for plough- 
+ing. Cows were kept for butter, cheese, and milk ; the dates 
+at which cheese was manufactured being frequently men- 
+tioned in the accounts. The calves were generally sold, but 
+sometimes kept for stock. 
+
+The various losses of stock suffered by the agriculturist 
+were called by the generic name of 'murrain.' From the 
+foot notes appended to the catalogues of stock printed below, 
+it will be seen that this name was not only given to fatal 
+
+
+--page 31 MEDIEVAL AGRICULTURE.
+
+disorders, but to accidents, though the chief risks were those 
+of disease. The treatment of horses was the business of 
+the mareschallus or farrier; and the well-known complaints, 
+farcy, lampas, and spavin, are mentioned in the accounts. 
+Maudlaung, ii. p. 579. i., is a more obscure disease. Bleeding 
+was a customary method of practice. 
+
+Among the diseases peculiar to sheep, the scab is very 
+frequently mentioned. This disease made its appearance at 
+or about the year 1288, and became endemic. It was at 
+first treated with copperas and verdigris, but in time, that 
+is, at about the close of the thirteenth century, it was dis- 
+covered that tar (generally called bitumen in the accounts, 
+but occasionally by its English name) was a specific for the 
+complaint. Shortly after this time, the purchase of tar is a 
+regular entry. It is clear that the remedy was mixed with 
+butter or lard, and then rubbed in. Note is occasionally 
+taken of any exceptional prevalence of this disease, which 
+seems never to have been eradicated, but only to have varied 
+in intensity and frequency. 
+
+The reader will understand that the lambing season was 
+as anxious a time for the medieval agriculturist as it is now. 
+The ewes were sheltered, and received the unremitting at- 
+tention of the shepherd. The information which I can give 
+of the price of candles is tolerably full : it would have been 
+very scanty had it not been for purchases made {_tempore 
+agnellationis_}. With every care, however, the losses were 
+very heavy. 
+
+The sale of wool and woolfells was the chief profit of the 
+farmer. Hence, when arable land was abandoned to the 
+lessee, the lord generally retained the sheep farming. Merton 
+College did so on its Northumberland estate, long after the 
+cultivation of the soil was left in other hands. New College 
+did so at Birchanger and Takley. The early relinquishment 
+of border-farming is, no doubt, to be ascribed to the thieves 
+of the Scotch marches, against whom a remote proprietor 
+was likely to be very undefended, while the Northumbrian 
+
+
+--page 32 MEDIEVAL AGRICULTURE. 
+
+farmer would probably be able to hold his own. But the 
+continuance of sheep and wool farming, on the part of the 
+landlords, was due to the great and increasing value of the 
+raw material. Wool, as we see from the Southampton ac- 
+count, ii. 6ii. i., was occasionally stored in the church. It 
+was rammed into packs ; and the table given of the price 
+of canvas will supply instances of the purchase of material 
+for the purpose. The sale of wool was not always effected 
+by the bailiff], even when the rest of the produce was left 
+in his hands for disposal. Plentiful as the evidence is which 
+has been collected for the price of this important article of 
+medieval produce, it would have been much more abundant 
+had the record of transactions been written on the docu- 
+ments preserved. Very often, however, we read that the 
+wool was delivered into the hands of an officer appointed 
+specially for the purpose of negociating the sale ; but the 
+account of the sale has not been found. 
+
+Hides, except obtained from cattle who had died of 'mur- 
+rain,' were not often part of the proceeds of the farm. The 
+fullest information obtained as to their value is taken from 
+the records of consumption. The flesh of animals who died 
+of disease was often sold and eaten. 
+
+The pig was the most important article of food. We shall 
+find below that the relative price of pigs is fully proportionate 
+to modern values. The sides (bacons) and the hams (pernæ) 
+were salted and smoked in autumn and winter. Pig-skins 
+are occasionally quoted; but I do not know whether their 
+ancient was similar to their modern use. 
+
+Among poultry we find fowls, geese, ducks almost univer- 
+sally; peacocks and swans rarely. The low price of poultry 
+suggests that they were kept by the poorest classes. Eggs, 
+in particular, are exceedingly abundant, and no great varia- 
+tion occurs in their price in consequence of locality. On 
+some manors a large number of pigeons were kept, which 
+were perhaps as great a grievance as in France before the 
+Revolution. 
+
+
+--page 33 MEDIEVAL AGRICULTURE.
+
+The reader will find that rats and moles were considered 
+nuisances in the thirteenth and fourteenth centuries, and that 
+payment was made for catching and destroying them. The 
+value of arsenic, as a means for extirpating these pests, was 
+known. We read, too, of stoats and their depredations, of the 
+losses incurred by wolves and foxes, and of the charge to 
+which one manor was put in inviting the king's foxhunters 
+to destroy the last-named vermin. Rabbits do not seem to 
+have been plentiful, at least the price paid for them is rela- 
+tively exceedingly high; and I have never found any entry 
+of the sale or purchase of hares or pheasants. I do not doubt 
+that they existed, as they are mentioned in chronicles and 
+recited in deeds, but they never form part of the accounts 
+which have come before me. 
+
+Mills were generally possessed by lords of manors, and in 
+all likelihood the use of the village mill was compulsory on 
+all the inhabitants, that is, on all who owed suit and service 
+to the lord. These mills were either worked by water or 
+wind power, the latter being the most frequent motive force. 
+The reader will find a large body of evidence in the second 
+volume illustrating the price of canvas for millsails, and 
+of the various kinds of millstones. Towards the latter part 
+of the period the information on the price of millstones be- 
+comes deficient. The fact is, the mill and its privileges 
+were farmed early in the period before us; and though, for 
+a time, the owner supplied stones and repairs to his tenant, 
+it was not long before the farmer took this responsibility 
+upon himself. The miller, it appears, was remunerated by 
+a toll taken on the corn which was ground, and the item 
+'mill-corn' appears perpetually in the records of such estates 
+as possessed mills. The right of having a water-mill was a 
+franchise, and could not be invaded without liability to 
+action for damages or fine in the manor court : but it is 
+not clear whether a similar limitation applied to wind-mills. 
+The construction, however, and maintenance of a mill in- 
+volved a considerable outlay, and when the mill was let to 
+
+
+--page 34 MEDIEVAL AGRICULTURE. 
+
+farm the rent was heavy. Malting was carried on in the 
+mill, or in its neighbourhood ; and occasionally it appears 
+that a fine was exacted on such tenants as malted their own 
+barley privately. 
+
+In conclusion, the art of medieval husbandry differs from 
+that of later times by its deficiencies. The land was im- 
+perfectly drained; the working of the soil was shallow; the 
+manures employed were limited to stable dung, to lime or 
+marl, and to sheep-dressing. Scanty as the crop was, it seems 
+to have been very exhausting, for half the land, in ordinary 
+cases, lay in fallow. Roots and artificial grasses were un- 
+known. Such crops as were obtained, scanty as they were 
+in amount, were not procured except at large relative ex- 
+pense, and any notable addition to the wages of labour or 
+the cost of production so greatly diminished the value of 
+land as to cause a revolution in its tenure. The rent of 
+land, since it rises and falls as the cost of production dimin- 
+ishes or increases, was very low, and could not be increased 
+except by such improvements in the cost of agriculture as 
+were very distant from the experience of that time. 
+
+It is probable that in such parts of England as were, for 
+the resources of the thirteenth and fourteenth centuries, fully 
+peopled, not much less land was regularly under the plough 
+than at present. It is true that the system of fallows was ne- 
+cessarily practised; and it seems that when old pasture land 
+of indifferent quality was broken up, it was exhausted for 
+some time by a single crop, and was forthwith returned to 
+pasture. But there is even now abundant evidence of an- 
+cient culture in lands which have time out of mind been 
+used as pasture. Wherever ridge and furrow are seen in 
+pasture, there the land has been, at some time or the other, 
+under the plough; and, as is well known, the marks of such 
+culture are exceedingly permanent, indeed can be effaced 
+only at great cost. So, much land on the Southdowns, which 
+has not borne grain crops in the memory of man, retains 
+unmistakeable traces of ancient cultivation. The exigencies 
+
+
+--page 35 MEDIEVAL AGRICULTURE.
+
+of medieval society left little ground, which could be avail- 
+able for cultivation, for park or pleasure, and upland pasture 
+must have been of little value. 
+
+The Tables annexed are intended to suggest what was 
+the rate of production ; what the average under cultivation, 
+with the proportion of seed sown; and what was the stock 
+kept on the several estates which, at that time, were culti- 
+vated by the bailiffs of Merton College, for the profit of 
+that society. 
+
+The original is a long roll, written on both sides, and 
+containing an account for four consecutive years. It com- 
+prises the amount of corn and other agricultural produce 
+obtained in each year; and states summarily how it was 
+disposed of by sale, in seed, or in consumption on the farm ; 
+and acknowledges the remainders under each head as debits 
+to the college. It also states the number of cattle, sheep, 
+and poultry kept, with the losses of the year; and the pro- 
+duce of wool, &c. : presenting a minute and accurate ré- 
+sumé of the whole condition of the college estates, in so 
+far as they were farmed by the society. 
+
+The upper table in each page of the first series, pp. 38-45, 
+states the amount of corn grown on each estate in quarters, 
+bushels, and pecks. The lower gives the acreage, generally 
+calculated in acres and roods, with the seed sown on the 
+area under cultivation. Sometimes the acreage is left out, 
+as, for instance, in the account for the year 1333-4, on the 
+Wolford and Holywell lands. But such cases present little 
+difficulty. The rate of seed wheat is always two bushels, or 
+a little more, to the acre; of barley, drage, and oats, four; 
+and of other grain, as with wheat ; and the most important 
+inference, the rate of production to seed sown, is supplied. 
+
+The other tables contain accounts of stock and produce 
+other than grain, and suggest, when taken with the amount 
+of land under cultivation, what was the amount of such 
+stock which could be maintained on the produce of the 
+
+
+--page 36 MEDIEVAL AGRICULTURE. 
+
+arable estate and the pasture, either held by the lord of the 
+manor, or grazed in common with the cattle of the free- 
+holders and villains of the manor. 
+
+It will be seen from the statements of stock and produce, 
+that horses of some kind formed part of the complement of 
+each farm. They are designated either as equi cartarii or 
+affri, and in some cases, as the foot-notes shew, the bailiff's 
+nag or hackney is reckoned with the rest of the stud. 
+
+There can be no doubt that affri were a kind of horses 
+employed especially in husbandry, and that they were pro- 
+bably the progenitors of those coarse ill-shaped animals which 
+are still seen in some country places. The horses quoted 
+in the catalogue of stock at Wolford and Basingstoke, of 
+the year 1334, are the affri of the following year. On the 
+other hand, affri are distinguished from horses on other 
+estates, probably because the latter were larger and better 
+bred. We shall see below that the price of the horse is 
+always higher than that of the affer. 
+
+In the tables of price of stock given in the second volume, 
+pp. 183-270, I have always put 'stotts' under the head of 
+'cattle,' In modern provincial language a 'stot' is a young 
+ox. But I suspected, when I recognized the low rate at 
+which the hides of these animals were sold, that I had been 
+in error in assigning them to that species. Ducange con- 
+siders stots, or stods, though his quotations are not conclu- 
+sive, to be low-bred stallions. I am disposed to think that 
+the interpretation is correct, because the hide is of such 
+slight value. 
+
+The horses kept for breeding and sale at Elham are not 
+reckoned in the schedule. These animals, always intended, 
+it seems, for riding, were, we must conclude, under other 
+management than that of the bailiff, though they are in- 
+cluded in his account. See ii. 232. ii., 233. ii. It may be 
+observed, too, that the entry of produce in the first year from 
+Elham includes the tithe-wheat collected on that estate. 
+
+The number of cattle kept is considerable, but the breed. 
+
+
+--page 37 MEDIEVAL AGRICULTURE.
+
+as I have stated elsewhere, was small. The largest amount, 
+after Maldon, is found at Cuxham ; and the arable on this 
+estate was about one hundred and eighty acres annually. 
+
+On three of the estates no sheep are kept. Elham, indeed, 
+was chiefly valuable for its tithe. Cambridge and Holy- 
+well (Oxford) were chiefly cheese and butter farms, near 
+towns, and therefore employed more profitably even than in 
+growing wool. 
+
+On other estates the sheep are distinguished as ewes, 
+muttons, i. e. wethers, hoggasters, or two-year olds (the two- 
+year old ewe is called jercion), and lambs. It seems that 
+some of the farms bred, others fatted, sheep. Thus, at Gam- 
+lingay in 1335, the whole stock is wethers. It may be ob- 
+served, that in these times the fleece was worth nearly as 
+much as the sheep. As a rule, one ram is kept for thirty 
+ewes. 
+
+Fowls are kept on all estates: capons on most. 
+
+I shall advert below, in treating on the price of wool, to 
+the fact that wool entries are scanty. But the evidence 
+supplied here will indicate how light the fleece was. The 
+wool is given in cloves of 7 lb. and fractional pounds. 
+
+Lastly. I have stated the annual losses for which the 
+bailiffs take credit. They are occasionally enormous, and, 
+happily, far removed from ordinary experience in our own 
+time. 
+
+Such accounts are, it is hoped, sufficient specimens of the 
+method in which estates were generally cultivated before 
+those changes in the bailiff system which were induced by 
+the great plague of 1348. 
+

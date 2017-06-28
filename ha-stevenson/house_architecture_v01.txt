@@ -74,18 +74,18 @@ Morison, Miss MacLaren, and Mr. Pitt, Miss Bateman, and
 
 --page vi
 
-some others on the staff of the 'Graphic,' to all of whom I 
+some others on the staff of the ‘Graphic,’ to all of whom I 
 feel under obligation for the careful way in which the cuts 
 have been executed. I venture to think that some of them 
 deserve a high place among modern examples of the art of 
 wood engraving. 
 
 I am indebted for the use of a number of the cuts to the 
-kindness of the Proprietors of the 'Graphic' to Mr. George 
-Godwin of the 'Builder' and to Mr. James Parker of Oxford 
-for those from his father's work on 'English Domestic 
-Architecture in the Middle Ages' and the examples of the 
-Orders from Rickman's 'Gothic Architecture.' In two 
+kindness of the Proprietors of the ‘Graphic’ to Mr. George 
+Godwin of the ‘Builder’ and to Mr. James Parker of Oxford 
+for those from his father’s work on ‘English Domestic 
+Architecture in the Middle Ages’ and the examples of the 
+Orders from Rickman’s ‘Gothic Architecture.’ In two 
 or three cases where the same cut illustrates different 
 parts of the text, I have repeated it to save the reader the 
 trouble of looking it up in a different part of the book. 
@@ -186,26 +186,26 @@ Carolinen-Strass, Nuremberg .. Frontispiece.
 
 --page x
 
-37. Bomanesque House at Boppart on the Rhine. — From the 'Builder' .. 144 
+37. Bomanesque House at Boppart on the Rhine. — From the ‘Builder’ .. 144 
 38. Goliath House, Ratisbon .. 145 
 39. Gothic Street in Ratisbon .. 148 
 40. House of the Musicians at Rheims .. 150 
-41. Markenfield Hall, Yorkshire.— From Parker's 'English Domestic 
-	Architecture of the Middle Ages' .. 151 
+41. Markenfield Hall, Yorkshire.— From Parker’s ‘English Domestic 
+	Architecture of the Middle Ages’ .. 151 
 42. Decorated Window, under level Cornice .. 152 
 43. Perpendicular Window, under level Cornice .. 152 
 44. House of Jacques Cœur at Bourges .. 154 
 45. Plans of Vaulting showing development .. 160 
-46. Vaulting of the Crossing, St. George's Chapel, Windsor. — From the 
-	'Graphic' .. 161 
+46. Vaulting of the Crossing, St. George’s Chapel, Windsor. — From the 
+	‘Graphic’ .. 161 
 47. Morton Hall, Cheshire .. 165 
-48. Corner Oriel at Augsburg.— From the 'Builder' .. 169 
-49. Gothic House at Boppart on the Bhine. — From the 'Builder' .. 176 
+48. Corner Oriel at Augsburg.— From the ‘Builder’ .. 169 
+49. Gothic House at Boppart on the Bhine. — From the ‘Builder’ .. 176 
 50. The Nassauer House, Nuremberg .. 177 
 51. Hohenzollern .. 184 
 52. Grecian Doric. — Temple of Theseus, Athens. (For the use of this 
 	and the other illustrations of the Greek and Boman Orders from 
-	Hickman's 'Gothic Architecture,' I am indebted to Mr. James Parker, 
+	Hickman’s ‘Gothic Architecture,’ I am indebted to Mr. James Parker, 
 	of Oxford.) .. 186 
 53. Grecian Doric. — Temple of Apollo at Delos .. 187 
 54. Grecian Ionic. — Erechtheum, Athens .. 189 
@@ -215,7 +215,7 @@ Carolinen-Strass, Nuremberg .. Frontispiece.
 58. The Composite Order. — Arch of Septimius Severus, Rome .. 191 
 59. The Erectheum, Athens .. 194 
 60. Arch of Hadrian, Athens .. 204 
-61. The Custom House, King's Lynn .. 206 
+61. The Custom House, King’s Lynn .. 206 
 62. The Blaek Gate, Treves .. 207 
 63. Roman Capital carved in brick .. 208 
 64. Amresbury, principal front .. 209 
@@ -223,7 +223,7 @@ Carolinen-Strass, Nuremberg .. Frontispiece.
 66. Roman Ionic.— Aqueduct of Hadrian, Athens .. 211 
 67. Roman Ionic.— Temple of Fortuna Virilis, Bome .. 211 
 68. Nioollini Palace, Florence .. 219 
-69. House in Via d'Bianchi, Bome .. 223 
+69. House in Via d’Bianchi, Bome .. 223 
 70. Small Gothic House at Venice .. 226 
 71. Vandramini Palace, Venice .. 228 
 
@@ -234,8 +234,8 @@ Carolinen-Strass, Nuremberg .. Frontispiece.
 78. Staircase in the Ducal Palace, Venice .. 232 
 74. Pesaro Palace, Venice .. 234 
 76. Château de Thery .. 239 
-76. Jacques Cœur's House at Bourges, plan of Ground-floor .. 243 
-77. Château d'Azy-le-Rideau, Indre-et-Loire .. 245 
+76. Jacques Cœur’s House at Bourges, plan of Ground-floor .. 243 
+77. Château d’Azy-le-Rideau, Indre-et-Loire .. 245 
 78. House at Orleans .. 248 
 79, 80. Gables at Nuremberg .. 259 
 81. Houses at Munster, Westphalia .. 261 
@@ -243,7 +243,7 @@ Carolinen-Strass, Nuremberg .. Frontispiece.
 83. Houses on the Pegnitz, Nuremberg .. 266 
 84. Oriel Window at Freiburg in Breisgan .. 267 
 85. Inn at Kriegshaben, near Augsburg .. 268 
-86. Bishop's House, Würzburg .. 269 
+86. Bishop’s House, Würzburg .. 269 
 87. New Münsterhof Würzburg .. 272 
 88. House at Würzburg .. 273 
 89. Tower of the Rathhaus, Mannheim .. 274 
@@ -251,30 +251,30 @@ Carolinen-Strass, Nuremberg .. Frontispiece.
 91. Houses in the Market Place, Brussels .. 281 
 92. Old House at Lucerne .. 283 
 93. Longleat, Wiltshire. — From an old print .. 286 
-94. Interior in old House in Lime Street— From the 'Graphic' .. 291 
-95. Chimney-piece in old House in Lime Street. — From the 'Graphic' .. 293 
+94. Interior in old House in Lime Street— From the ‘Graphic’ .. 291 
+95. Chimney-piece in old House in Lime Street. — From the ‘Graphic’ .. 293 
 96. York Gate, a Landing-place on the Thames .. 299 
 97. 98, 99 and 100. Amresbury, plans and elevations .. 304-5 
-101. St. John's College, Oxford, second quad .. 308 
+101. St. John’s College, Oxford, second quad .. 308 
 102. Market-Cross, Peterborough .. 312 
 103. Steeple of St. Magnus, London Bridge (designed by Sir Christopher 
 	Wren .. 318 
-104. Old Merchant Taylors' School, designed by Wren, Street Front. — From 
-	the 'Graphic' .. 319 
-105. Merchant Taylors' School, Playing Court.— From the 'Graphic' .. 320 
-106. School-room of Merchant Taylors' School.— Ditto .. 321 
+104. Old Merchant Taylors’ School, designed by Wren, Street Front. — From 
+	the ‘Graphic’ .. 319 
+105. Merchant Taylors’ School, Playing Court.— From the ‘Graphic’ .. 320 
+106. School-room of Merchant Taylors’ School.— Ditto .. 321 
 107. Old Bedlam, Central block .. 327 
-108. St. Catherine's College, Cambridge .. 329 
-109. Drapers' Almhouses, Margate .. 330 
+108. St. Catherine’s College, Cambridge .. 329 
+109. Drapers’ Almhouses, Margate .. 330 
 110. Kew Palace .. 333 
-111. Cowper's House at Olney.— From the 'Graphic' .. 335 
+111. Cowper’s House at Olney.— From the ‘Graphic’ .. 335 
 112. Redington Rectory .. 337 
 113. Toini Hall, South Shields .. 338 
 
 
 --- xii
 
-114. Custom Honso, King's Lynn .. 339
+114. Custom Honso, King’s Lynn .. 339
 115. Montague House — the old British Museum .. 340
 116. Old Street in London .. 341
 117, 118 and 119. Doorways in Essex Street, Strand .. 342-3
@@ -421,7 +421,7 @@ shown to be requisite in modern house-planning.
 Before we can combine the various rooms and offices 
 together into one house, we must understand the purpose 
 of each, and the best form and size for that purpose. The 
-family living-rooms, the servants' offices, and the passages 
+family living-rooms, the servants’ offices, and the passages 
 and stairs connecting them, will each form the subject of a 
 chapter, before treating of the best ways of arranging and 
 combining these together. 
@@ -440,7 +440,7 @@ architectural effect in form and colour.
 When the house is built it must be warmed and 
 ventilated, supplied with water, a system of drainage, and 
 various mechanical contrivances, such as bells, speak- 
-ing tubes, and lifts, for convenience or to save servants' 
+ing tubes, and lifts, for convenience or to save servants’ 
 labour. These matters will form the subject of a chapter. 
 
 As a house is not complete internally without decoration 
@@ -472,8 +472,8 @@ would be difficult, and the results probably wrong. Some
 notice of the more important works on these subjects will 
 indicate the gap which this book is intended to fill. 
 
-Mr. Ruskin, in his 'Seven Lamps of Architecture,' and 
-in his 'Stones of Venice,' has discussed with eloquence 
+Mr. Ruskin, in his ‘Seven Lamps of Architecture,’ and 
+in his ‘Stones of Venice,’ has discussed with eloquence 
 and insight the fundamental principles of Architecture, the 
 value of the art to us, and the style we ought to adopt for 
 modern use. By these and other writings he has inspired 
@@ -488,7 +488,7 @@ that their practical influence on modern architecture has to
 some extent been mischievous. 
 
 
-Mr. Fergusson, in his 'History of Architecture,' gives a 
+Mr. Fergusson, in his ‘History of Architecture,’ gives a 
 clear and interesting account of all the great styles of 
 architecture which have existed in the world. His 
 three volumes form a complete text-book of great 
@@ -513,7 +513,7 @@ It is, perhaps, a task beyond human ability to re-design
 the great buildings of the different styles of architecture, 
 for it implies greater insight and architectural invention 
 than their architects possessed. Trying to work out in 
-several instances the results of Mr. Fergusson's proposed 
+several instances the results of Mr. Fergusson’s proposed 
 improvements on historical buildings, I have found either 
 that they altered the intention of the design, or introduced 
 some new difficulty which it is not unreasonable to 
@@ -533,8 +533,8 @@ existence.
 
 
 About twenty years ago. Sir Gilbert Scott published a 
-little book on 'Secular and Domestic Architecture, Present 
-and Future,' to show how suitable the Gothic style of 
+little book on ‘Secular and Domestic Architecture, Present 
+and Future,’ to show how suitable the Gothic style of 
 
 
 --page 7
@@ -550,13 +550,13 @@ adapting the style to modern use, and there is a feeling that
 the question whether Gothic is the most suitable style of 
 architecture for modern domestic use needs reconsideration. 
 
-Since Sir Gilbert Scott's lamented death his lectures 
+Since Sir Gilbert Scott’s lamented death his lectures 
 to the students of the Royal Academy, which he had 
 previously prepared for publication, have been published in 
 two volumes full of admirable illustrations of English 
 mediæval ecclesiastical architecture. The lectures, which 
 were delivered at intervals during fourteen years, are not 
-a consecutive treatise. They give the results of the author's 
+a consecutive treatise. They give the results of the author’s 
 life-long enthusiastic study of mediaeval church architecture, 
 especially in England. His knowledge of buildings, from 
 cathedrals to village churches, was unsurpassed, and it is 
@@ -584,7 +584,7 @@ For the history of domestic architecture in England in
 the Middle Ages, the work commenced by Mr. Hudson 
 Turner, and continued by Mr. Parker, is exhaustive. I 
 have availed myself largely of it in giving the history of 
-house-planning, and by Mr. J. Parker's kindness I have 
+house-planning, and by Mr. J. Parker’s kindness I have 
 been allowed the use of several of the woodcuts for these 
 volumes. 
 
@@ -597,8 +597,8 @@ its phases, and a copious index gets over the difficulty of
 arrangement. 
 
 
-On the subject of the planning of houses, 'The English 
-Gentleman's House' by Professor Kerr, contains about all 
+On the subject of the planning of houses, ‘The English 
+Gentleman’s House’ by Professor Kerr, contains about all 
 that need be known. The book is large and would bear 
 condensation. In the chapters on planning I have endea- 
 voured to go over the same ground. I shall have occasion 
@@ -634,8 +634,8 @@ lard.
 
 Sir Edmund Beckett has given the public the benefit of 
 some of his extensive experience as a builder and amateur 
-architect, in a little book which he calls, 'A Book on Build- 
-ing,' in which his aim is to give practical information to 
+architect, in a little book which he calls, ‘A Book on Build- 
+ing,’ in which his aim is to give practical information to 
 those intending to build, how to avoid legal and structural 
 mistakes. The subject of house-building occupies a con- 
 siderable part of it, not treated in a systematic way, but by 
@@ -663,7 +663,7 @@ architects that, "after the plans are settled and the work
 
 --page 10
 
-commenced, the 'client' must yield himself absolutely to his 
+commenced, the ‘client’ must yield himself absolutely to his 
 professional adviser." It is reasonable rather that as he 
 pays his money he should have his choice. Employers 
 may sometimes insist on things in a building which an 
@@ -692,11 +692,11 @@ and on the great pyramid.
 
 
 The late M. Viollet-le-Duc, the author of the admirable 
-'Dictionary of French Mediæval Architecture,' recently pub- 
+‘Dictionary of French Mediæval Architecture,’ recently pub- 
 lished a charming little book, which has been translated into 
-English, under the title of 'How to Build a House.' The 
-title is somewhat deceptive; the French title, 'L'Histoire 
-d'une Maison,' describes the contents more accurately. 
+English, under the title of ‘How to Build a House.’ The 
+title is somewhat deceptive; the French title, ‘L’Histoire 
+d’une Maison,’ describes the contents more accurately. 
 
 It would not help any one in building an English house. 
 The conditions of building are those of French country parts, 
@@ -717,7 +717,7 @@ at home during the German war, is set, under the guidance
 of his cousin, an architect, to build a house as a surprise for 
 his sister on her return from her marriage jaunt. Knowing 
 architecture only from the treatises on the five orders 
-in his father's library, he had thought it a dreary subject, 
+in his father’s library, he had thought it a dreary subject, 
 but his interest is awakened by being taught by practical 
 experience how every feature of architecture springs from 
 use and convenience. It is not shown, however, how 
@@ -727,8 +727,8 @@ tion or use. The book is an excellent one for creating an
 interest in the subject. 
 
 The same author had recently published another book 
-also translated into English, under the title of 'The Habi- 
-tations of Man in All Ages,' also in form a novelette. Two 
+also translated into English, under the title of ‘The Habi- 
+tations of Man in All Ages,’ also in form a novelette. Two 
 "beings" with an interest in house building visit, after the 
 manner of the Wandering Jew, the various countries of the 
 world, beginning with the times of the cave men, and 
@@ -738,7 +738,7 @@ servative, the other in favour of the successive improve-
 ments in the construction of dwellings which they come 
 across in their large experience. Both are rather bores, 
 while the descriptions and pictures of the houses they see 
-are, like the celebrated treatise of the author's countryman 
+are, like the celebrated treatise of the author’s countryman 
 on the camel, drawn largely from his own imagination. 
 The addition of the data, if any, on which they are founded, 
 would have made the book of more value. It does not 
@@ -747,7 +747,7 @@ profess to treat of modern houses.
 
 --page 12
 
-M. Viollet-le-Duc's 'Dictionary of Gothic Architecture' is 
+M. Viollet-le-Duc’s ‘Dictionary of Gothic Architecture’ is 
 well known in this country, where the greater favour for 
 this style has made it more popular than in France. 
 
@@ -778,14 +778,14 @@ successful as an author than as an architect.
 
 Information on all the subjects I purpose to treat can be 
 found in the Cyclopaedias and Dictionaries of Architecture, 
-such as Gwilt's 'Encyclopædia,' or Raynaud's 'Traite d' Archi- 
-tecture,' Paris 1863. The former, even in its later editions, 
+such as Gwilt’s ‘Encyclopædia,’ or Raynaud’s ‘Traite d’ Archi- 
+tecture,’ Paris 1863. The former, even in its later editions, 
 is somewhat out of date in its information and its views. 
 The short chapter on house-planning takes as a standard 
 houses about a century old — in its criticism of buildings it 
 judges of their merits according to their Classic purity. 
 
-Raynaud's book is more modern and thorough, but it is 
+Raynaud’s book is more modern and thorough, but it is 
 
 
 --page 13
@@ -859,7 +859,7 @@ Till the public care more for it, and know more about it,
 we cannot look for much improvement. Why should they 
 spend money, and put themselves to trouble for mere dis- 
 play or to gratify whims of architects, which they neither 
-appreciate nor understand ? Better take the builder's house 
+appreciate nor understand ? Better take the builder’s house 
 with its compo-dressings and vulgar ornament. It is 
 sensibly planned and seems cheap at the money. But it 
 has been built to sell. The principle of construction seems 
@@ -940,7 +940,7 @@ governed not only the outside architecture of the house, but
 its internal decorations and everything it contained. 
 
 In old times it was not so. A man was certain in 
-building to get his money's worth in art. Every old house 
+building to get his money’s worth in art. Every old house 
 is interesting, not because it is old, but because it is good. 
 The style of one age may be better than another, but all are 
 good in their way. The houses of Pompeii were all works 
@@ -1310,8 +1310,8 @@ ornament wherever they could put it. But, though this
 practice is not without advocates and examples in our day, 
 it is unthinking and savage art. 
 
-An illustration in Mr. Owen Jones’s 'Grammar of Orna- 
-ment,' of the tattooed face of a New Zealander, shows how 
+An illustration in Mr. Owen Jones’s ‘Grammar of Orna- 
+ment,’ of the tattooed face of a New Zealander, shows how 
 hideous may be the results, even of ornament in itself 
 beautiful, when used in the wrong place ; and the same effect 
 would be produced in architecture, though not perhaps so 
@@ -1373,7 +1373,7 @@ To the most impressive architecture, mystery is essential
 — the feeling that there is something more than we see. 
 Glory half hid is double in effect. The half, as the Greeks 
 knew, is often greater than the whole. The plays of 
-'Medea' and 'Macbeth" prove that this is equally true in 
+‘Medea’ and ‘Macbeth’ prove that this is equally true in 
 dramatic art. 
 
 Truth is essential in good architecture, as it is in all 
@@ -1402,7 +1402,7 @@ sion. To this all the parts must tend, and what is irrelevant
 must be suppressed or modified. A photograph is true 
 (except that the relation of light and shadow is destroyed by 
 green or red and yellow all being turned to black), but even 
-if it represented Nature's colour, or her relations of light 
+if it represented Nature’s colour, or her relations of light 
 and shade, it would not be a work of art: it is not the 
 impression on the mind of an artist expressed by him in such 
 a way as to impress others; it tells a great many things 
@@ -1574,11 +1574,11 @@ ideas of grandeur and beauty come unsought, which in old
 times was believed to be the inspiration of the Deity. 
 
 To the greatest architecture the idea of Size is essential. 
-Its glory is, that it creates its forms on the scale of Nature's 
+Its glory is, that it creates its forms on the scale of Nature’s 
 grandeur. To draw a line of three or four hundred feet 
 against the sky, exquisitely modelled along its whole length, 
 is an achievement which raises our opinion of humanity. 
-Cities are always proud of their spires. St. Paul's, or one 
+Cities are always proud of their spires. St. Paul’s, or one 
 of the great French cathedrals, makes the same impression 
 on the mind as a great mountain. 
 
@@ -1731,7 +1731,7 @@ of the building. One was to bring down the strong line
 of the cornice, as in fig. 7, to the top of the main floor of 
 the building, as if marking its importance and giving it 
 dignity, and treating the rooms above as if they were only 
-bedrooms, as 'an attic,' as it is called. In the old Italian 
+bedrooms, as ‘an attic,’ as it is called. In the old Italian 
 palaces, where the great entertaining rooms were at the top 
 of the house, it was fitting that the great cornice should be 
 immediately over them. 
@@ -1815,7 +1815,7 @@ are widely various in kind, and that many of them are
 incompatible with others. Now, for the perfection of 
 any work of art, Harmony is essential. All its various 
 parts should suit one another. Nothing should be out 
-of keeping. Ladies appreciate this principle in dress ; it 
+of keeping. Ladies appreciate this principle in dress; it 
 would be absurd to wear a brilliant bonnet with a rough 
 stuff gown. It is so much the essence of music that the 
 word is used as a name for it, and it is the chief essential 
@@ -2034,8 +2034,8 @@ should be the aim of art.
 I do not know whether 
 even Mr. Ruskin himself now 
 holds the theory, stated in 
-'Seven Lamps of Architec- 
-ture,' "that all beautiful lines are adaptations of those 
+‘Seven Lamps of Architec- 
+ture,’ "that all beautiful lines are adaptations of those 
 which are commonest in the external creation" — that in 
 the Doric temple the cornice and triglyphs are not beautiful 
 “because unimitative” — that the fluting of the column 
@@ -2497,19 +2497,19 @@ time produce good art. Sir Joshua Reynolds said that no
 picture could be harmonious in which blue preponderated, 
 and Gainsborough painted his ‘Blue Boy.’ It is a law of 
 composition in painting, that a principal figure should not 
-be placed in the centre of a picture ; yet artists have put it 
+be placed in the centre of a picture; yet artists have put it 
 there, and the picture has looked all right. 
 
 Such laws only mean that the harmony they forbid is 
-difficult ; when it is achieved, the success is all the greater. 
+difficult; when it is achieved, the success is all the greater. 
 
 
 --page 68
 
-Blue and green are supposed not to go together ; yet, in 
+Blue and green are supposed not to go together; yet, in 
 other instances besides trees against the sky, it is the most 
 exquisite of harmonies. As well say that the music of a 
-fiddle is harsh ; yes, as we hear it in steamboats. Yet some 
+fiddle is harsh; yes, as we hear it in steamboats. Yet some 
 people would prefer a popular air so played to a sonata of 
 Beethoven performed by Joachim. 
 
@@ -2541,7 +2541,7 @@ in a good position in society, or being an eloquent writer,
 or knowing a little of the subject and being very rich, if he 
 is an amateur; or, if he is an architect, being a good business 
 manager, — are common reasons with us for recognising a 
-man’s authority on architectural subjects ; and, the art not 
+man’s authority on architectural subjects; and, the art not 
 being generally understood, we seldom meet any one who 
 does not consider himself a perfectly competent judge of the 
 

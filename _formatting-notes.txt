@@ -1,0 +1,12 @@
+Formatting notes:
+
+Smart quotes:
+‘History of Architecture,’
+“Classic”
+
+
+-- Comments
+--page 2
+--figure 42. Caption for figure.
+{+Text+} Small caps
+{^1} Footnote

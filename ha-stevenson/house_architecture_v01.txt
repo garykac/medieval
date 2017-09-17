@@ -302,7 +302,7 @@ CHAPTER I.
 
 INTRODUCTORY.
 
-TO build a house for oneself is an excellent education
+{+To+} build a house for oneself is an excellent education
 in architecture. By the time it is finished, and the
 owner has lived in it, he feels how much better a house
 he could build with the experience he has acquired, if he
@@ -1917,7 +1917,7 @@ not to be broken without cause — to express some higher
 meaning, or to preserve some work our fathers have left us.
 
 
-{+Contrast} is also a means of obtaining artistic effect, more
+{+Contrast+} is also a means of obtaining artistic effect, more
 telling than harmony, though not capable of producing such
 perfect results. An exquisitely carved and moulded window
 in a great field of plain wall looks more delicate itself, and
@@ -1945,7 +1945,7 @@ aim must be to produce unity, so that, however various the
 ideas it is concerned with, they shall unite in producing
 one idea, one work of art.
 
-{+Ornament}. — Architecture can produce artistic effects of
+{+Ornament+}. — Architecture can produce artistic effects of
 this kind without the aid of sculpture or painting or
 ornament of any kind, by the mere arrangement of masses
 
@@ -4592,7 +4592,7 @@ CHAPTER IV.
 WHAT STYLE OF ARCHITECTURE IS MOST SUITABLE FOR OUR
 HOUSES ?
 
-{+IN+} the last chapter some of the inconveniences were
+{+In+} the last chapter some of the inconveniences were
 pointed out which arise from practising various styles of
 architecture at the same time, such as the impossibility
 of so many styles being understood either by architects

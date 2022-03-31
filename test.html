@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<title>Tufte CSS</title>
+	<link rel="stylesheet" href="test.css"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Old+Standard+TT">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+<div class="container">
+
+      <h1 id="tufte-css">Tufte CSS</h1>
+      <p class="subtitle">Dave Liepmann</p>
+
+      <section>
+        <h2 id="fundamentals">Fundamentals</h2>
+        <h3 id="fundamentals--sections-and-headers">Sections and Headings</h3>
+        <p>Organize your document with an <code>article</code> element inside your <code>body</code> tag. Inside that, use <code>section</code> tags around each logical grouping of text and headings.</p>
+        <p>Tufte CSS uses <code>h1</code> for the document title, <code>p</code> with class <code>subtitle</code> for the document subtitle, <code>h2</code> for section headings, and <code>h3</code> for low-level headings. More specific headings are not supported. If you feel the urge to reach for a heading of level 4 or greater, consider redesigning your document:</p>
+        <blockquote cite="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB">
+          <p>[It is] notable that the Feynman lectures (3 volumes) write about all of physics in 1800 pages, using only 2 levels of hierarchical headings: chapters and A-level heads in the text. It also uses the methodology of <em>sentences</em> which then cumulate sequentially into <em>paragraphs</em>, rather than the grunts of bullet points. Undergraduate Caltech physics is very complicated material, but it didn’t require an elaborate hierarchy to organize.</p>
+          <footer><a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB">Edward Tufte, forum post, ‘Book design: advice and examples’ thread</a></footer>
+        </blockquote>
+        <p>As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just lightly styled, semantically correct HTML using <code>blockquote</code> and <code>footer</code> elements. See page 20 of <a href="https://www.edwardtufte.com/tufte/books_vdqi">The Visual Display of Quantitative Information</a> for an example in print.</p>
+        <p><span class="newthought">In his later books<label for="sn-in-his-later-books" class="note-label"></label></span><input type="checkbox" id="sn-in-his-later-books" class="note-checkbox"/><span class="note"><a href="http://www.edwardtufte.com/tufte/books_be"><em>Beautiful Evidence</em></a></span>, Tufte starts each section with a bit of vertical space, a non-indented paragraph, and the first few words of the sentence set in small caps. For this we use a span with the class <code>newthought</code>, as demonstrated at the beginning of this paragraph. Vertical spacing is accomplished separately through <code>&lt;section&gt;</code> tags. Be consistent: though we do so in this paragraph for the purpose of demonstration, do not alternate use of header elements and the <code>newthought</code> technique. Pick one approach and stick to it.</p>
+
+        <h3 id="fundamentals--text">Text</h3>
+        <p>Although paper handouts obviously have a pure white background, the web is better served by the use of slightly off-white and off-black colors. Tufte CSS uses <code>#fffff8</code> and <code>#111111</code> because they are nearly indistinguishable from their ‘pure’ cousins, but dial down the harsh contrast. We stick to the greyscale for text, reserving color for specific, careful use in figures and images.</p>
+        <p>In print, Tufte has used the proprietary Monotype Bembo<label for="sn-proprietary-monotype-bembo" class="note-label"></label><input type="checkbox" id="sn-proprietary-monotype-bembo" class="note-checkbox"/><span class="note">See Tufte’s comment in the <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Vt">Tufte book fonts</a> thread.</span> font. A similar effect is achieved in digital formats with the now open-source <a href="https://github.com/edwardtufte/et-book">ETBook</a>, which Tufte CSS supplies with a <code>@font-face</code> reference to a .ttf file. In case ETBook somehow doesn’t work, Tufte CSS shifts gracefully to other serif fonts like Palatino and Georgia.</p>
+        <p id="p10"><a class="plink" href="#p10"></a>Also notice how Tufte CSS includes separate <span class="pagenum" id="pg133"><a href="#pg133">[p.3]</a></span> font files for bold (strong) and italic (emphasis), instead of relying on the browser to mechanically transform the text. This is typographic best practice.</p>
+        <p class="sans">If you prefer sans-serifs, use the <code>sans</code> class. It relies on Gill Sans, Tufte’s sans-serif font of choice.</p>
+        <p>Links in Tufte CSS match the body text in color and do not change on mouseover or when clicked. Here is a <a href="#">dummy example</a> that goes nowhere. These links are underlined, since this is the most widely recognized indicator of clickable text. <label for="mn-blue-links" class="note-label">&#8853;</label><input type="checkbox" id="mn-blue-links" class="note-checkbox"/><span class="note">Blue text, while also a widely recognizable clickable-text indicator, is crass and distracting. Luckily, it is also rendered unnecessary by the use of underlining.</span> However, because most browsers’ default underlining does not clear descenders and is so thick and distracting, the underline effect is instead achieved using CSS trickery involving background gradients instead of standard <code>text-decoration</code>. Credit goes to Adam Schwartz for that technique.</p>
+        <p>As always, these design choices are merely one approach that Tufte CSS provides by default. Other approaches, such as changing color on click or mouseover, or using highlighting or color instead of underlining to denote links, could also be made to work. The goal is to make sentences readable without interference from links, as well as to make links immediately identifiable even by casual web users.</p>
+      </section>
+
+      <section>
+        <h2 id="notes">Sidenotes: Footnotes and Marginal Notes</h2>
+        <p id="p12"><a class="plink" href="#p12"></a>One of the most distinctive features of Tufte’s style is his extensive use of
+        sidenotes.<label id="fn2" for="fn2-cb" class="note-label"></label><input type="checkbox" id="fn2-cb" class="note-checkbox"/><span class="note">fdadf
+        <span class="notep">This is a very long sidenote that just seems to go on and on.</span>
+        <span class="notep">This is a even more text for go to the sidenote.</span>
+        <span class="notep">This is a even more text for the sidenote for the sidenote for the sidenote for the sidenote.</span>
+        <span class="notep">This is a even more text for the sidenote.</span>
+        <span class="notep">This is a even more text for the sidenote for the sidenote for the sidenote.</span>
+        <span class="notep">This is a even more text for the sidenote.</span>
+        </span>
+        Sidenotes are like footnotes, except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side in the margin. Perhaps you have noticed their use in this document already. You are very astute.</p>
+
+        <p>Sidenotes are a great example of the web not being like
+        print.<label for="sn-extensive-use-of-sidenotes2" class="note-label"></label><input type="checkbox" id="sn-extensive-use-of-sidenotes2" class="note-checkbox"/><span class="note">fdafda fjdkljf dkaj kdljk ajdkl;a jkdl;saj kdljsak ;
+        <span class="notep">This is a very long sidenote that just seems to go on and on.</span>
+        <span class="notep">This is a even more text for the sidenote.</span>
+        <span class="notep">This is a even more text for the sidenote for the sidenote for the sidenote for the sidenote.</span>
+        </span>
+        On sufficiently large viewports, Tufte CSS uses the margin for sidenotes, margin notes, and small figures. On smaller viewports, elements that would go in the margin are hidden until the user toggles them into view. The goal is to present related but not necessary information such as asides or citations <em>as close as possible</em> to the text that references them. At the same time, this secondary information should stay out of the way of the eye, not interfering with the progression of ideas in the main text.</p>
+
+		<div>
+		<span class="pagenum" id="pg4"><a href="#pg4">[p.4]</a></span>
+		<span class="pagenum" id="pg5"><a href="#pg5">[p.5]</a></span>
+		</div>
+		
+		<p id="p13"><a class="plink" href="#p13"></a></p>
+		<p id="p14"><a class="plink" href="#p14"></a></p>
+
+        <p>Sidenotes consist of two elements: a superscript reference number that goes inline with the text, and a sidenote with content. To add the former, just put a label and dummy checkbox into the text where you want the reference to go, like so:</p>
+        <p>You must manually assign a reference <code>id</code> to each side or margin note, replacing “sn-demo” in the <code>for</code> and the <code>id</code> attribute values with an appropriate descriptor. It is useful to use prefixes like <code>sn-</code> for sidenotes and <code>mn-</code> for margin notes.</p>
+        <p>Immediately adjacent to that sidenote reference in the main text goes the sidenote content itself, in a <code>span</code> with class <code>note</code>. This tag is also inserted directly in the middle of the body text, but is either pushed into the margin or hidden by default. Make sure to position your sidenotes correctly by keeping the sidenote-number label close to the sidenote itself.</p>
+        <p>If you want a sidenote without footnote-style numberings, then you want a margin note.
+          <label for="mn-demo" class="note-label">&#8853;</label>
+          <input type="checkbox" id="mn-demo" class="note-checkbox"/>
+          <span class="note">
+            This is a margin note. Notice there isn’t a number preceding the note.
+          </span> On large screens, a margin note is just a sidenote that omits the reference number. This lessens the distracting effect taking away from the flow of the main text, but can increase the cognitive load of matching a margin note to its referent text. However, on small screens, a margin note is like a sidenote except its viewability-toggle is a symbol rather than a reference number. This document currently uses the symbol &#8853; (<code>&amp;#8853;</code>), but it’s up to you.</p>
+      </section>
+
+      <section>
+        <h2 id="epilogue">Epilogue</h2>
+        <p>Many thanks go to Edward Tufte for leading the way with his work. It is only through his kind and careful editing that this project accomplishes what it does. All errors of implementation are of course mine.</p>
+      </section>
+
+</div>
+</body>
+
+</html>
